@@ -2,7 +2,7 @@
 
 ![LeetCode Progress](https://img.shields.io/badge/LeetCode-100%2B%20Solved-yellow)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![MIT License](https://img.shields.io/badge/License-MIT-green)
+![MIT License](LICENSE)
 
 Welcome to my LeetCode repository! 🎉 This repository contains well-categorized, optimized, and beginner-friendly solutions to various LeetCode problems.  
 All solutions are licensed under the [MIT License](LICENSE).
