@@ -19,7 +19,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 
 | Problem # | Title                          | Solution                       | Difficulty | Notes                                |
 |-----------|--------------------------------|---------------------------------|------------|---------------------------------------|
-| 1         | Two Sum                       | [Solution](solutions/two_sum.py) | Easy       | Hash map for efficient lookup.       |
+| 1         | Two Sum                       | [Solution](solutions/array/two_sum.py) | Easy       | Hash map for efficient lookup.       |
 | 26        | Remove Duplicates from Sorted Array | [Solution](solutions/remove_duplicates.py) | Easy | Two-pointer technique.               |
 | 27        | Remove Element                | [Solution](solutions/remove_element.py) | Easy  | In-place updates using a pointer.    |
 | 88        | Merge Sorted Array            | [Solution](solutions/merge_sorted_array.py) | Easy | Merge using two-pointer approach.    |
