@@ -1,8 +1,7 @@
 # LeetCode Solutions 💡
 
 ![LeetCode Progress](https://img.shields.io/badge/LeetCode-100%2B%20Solved-yellow)
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![MIT License](LICENSE)
+![MIT License](https://img.shields.io/badge/License-MIT-green)
 
 Welcome to my LeetCode repository! 🎉 This repository contains well-categorized, optimized, and beginner-friendly solutions to various LeetCode problems.  
 All solutions are licensed under the [MIT License](LICENSE).
@@ -29,6 +28,8 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 88           | Merge Sorted Array              | [Solution](solutions/merge_sorted_array.py) | Easy | Merge using two-pointer approach.    |
 | 605          | Can Place Flowers               | [Solution](solutions/can_place_flowers.py) | Easy | Iterative check for flower placement.|
 | 238          | Product of Array Except Self    | [Solution](solutions/product_except_self.py) | Medium | Prefix and suffix multiplications.   |
+| 1346         | Check If N and Its Double Exist | [Solution](solutions/array/check_double_exist.py) | Easy          | Uses a set for efficient lookups.         |
+
 
 ---
 
