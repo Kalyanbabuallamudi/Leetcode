@@ -41,7 +41,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 345          | Reverse Vowels of a String      | [Solution](solutions/reverse_vowels.py) | Easy  | Two-pointer swap technique.          |
 | 151          | Reverse Words in a String       | [Solution](solutions/reverse_words.py) | Medium | Splitting and reversing words.       |
 | 1071         | Greatest Common Divisor of Strings | [Solution](solutions/gcd_strings.py) | Easy  | Utilized GCD for substring checks.   |
-
+| 1455         | Check If a Word Occurs As a Prefix of Any Word in a Sentence | [Python 3](solutions/strings/prefix_check.py)  | Easy          | Split sentence, check prefix using `startswith`. |
 ---
 
 ## 🔗 **Linked Lists**
