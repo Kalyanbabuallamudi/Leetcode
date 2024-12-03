@@ -35,15 +35,15 @@ All solutions are licensed under the [MIT License](LICENSE).
 
 ## ✍️ **Strings**
 
-| 🆔 Problem # | 📜 Title                          | 🔗 Solution                       | 🚦 Difficulty | 📝 Notes                                |
-|--------------|----------------------------------|-----------------------------------|---------------|-----------------------------------------|
-| 2000         | Reverse Prefix of Word          | [Python](solutions/reverse_prefix.py) | Easy  | String slicing and iteration.        |
-| 345          | Reverse Vowels of a String      | [Python](solutions/reverse_vowels.py) | Easy  | Two-pointer swap technique.          |
-| 151          | Reverse Words in a String       | [Python](solutions/reverse_words.py) | Medium | Splitting and reversing words.       |
-| 1071         | Greatest Common Divisor of Strings | [Python](solutions/gcd_strings.py) | Easy  | Utilized GCD for substring checks.   |
-| 1455         | Check If a Word Occurs As a Prefix of Any Word in a Sentence | [Python](solutions/strings/prefix_check.py)  | Easy          | Split sentence, check prefix using `startswith`. |
+| 🆔 Problem # | 📜 Title                                                       | 🔗 Solution                                     | 🚦 Difficulty | 📝 Notes                                |
+|--------------|---------------------------------------------------------------|------------------------------------------------|---------------|-----------------------------------------|
+| 2000         | Reverse Prefix of Word                                       | [Python](solutions/reverse_prefix.py)          | Easy          | String slicing and iteration.          |
+| 345          | Reverse Vowels of a String                                   | [Python](solutions/reverse_vowels.py)          | Easy          | Two-pointer swap technique.            |
+| 151          | Reverse Words in a String                                    | [Python](solutions/reverse_words.py)           | Medium        | Splitting and reversing words.         |
+| 1071         | Greatest Common Divisor of Strings                            | [Python](solutions/gcd_strings.py)             | Easy          | Utilized GCD for substring checks.     |
+| 1455         | Check If a Word Occurs As a Prefix of Any Word in a Sentence  | [Python](solutions/strings/prefix_check.py)    | Easy          | Split sentence, check prefix using `startswith`. |
+| 2109         | Adding Spaces to a String                                    | [Python](solutions/strings/2109_add_spaces_to_string.py) | Medium        | Efficient use of slicing and list join |
 
-| 2109         | Adding Spaces to a String        | [Python](solutions/strings/2109_add_spaces_to_string.py) | Medium        | Efficient use of slicing and list join |
 ---
 
 ## 🔗 **Linked Lists**
