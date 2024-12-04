@@ -43,7 +43,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 1071         | Greatest Common Divisor of Strings                            | [Python](solutions/gcd_strings.py)             | Easy          | Utilized GCD for substring checks.     |
 | 1455         | Check If a Word Occurs As a Prefix of Any Word in a Sentence  | [Python](solutions/strings/prefix_check.py)    | Easy          | Split sentence, check prefix using `startswith`. |
 | 2109         | Adding Spaces to a String                                    | [Python](solutions/strings/2109_add_spaces_to_string.py) | Medium        | Efficient use of slicing and list join |
-
+| 2825         | Make String a Subsequence Using Cyclic Increments | [Python](solutions/strings/2825_make_subsequence.py) | Medium        | Two-pointer technique and cyclic character check |
 ---
 
 ## 🔗 **Linked Lists**
