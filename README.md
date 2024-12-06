@@ -18,18 +18,18 @@ All solutions are licensed under the [MIT License](LICENSE).
 
 ---
 
-## 🧮 **Array**
+## 🧮 **Arrays**
 
 | 🆔 Problem # | 📜 Title                          | 🔗 Solution                       | 🚦 Difficulty | 📝 Notes                                |
 |--------------|----------------------------------|-----------------------------------|---------------|-----------------------------------------|
-| 1            | Two Sum                         | [Python](solutions/array/two_sum.py) | Easy          | Hash map for efficient lookup.         |
+| 1            | Two Sum                         | [Python](solutions/arrays/two_sum.py) | Easy          | Hash map for efficient lookup.         |
 | 26           | Remove Duplicates from Sorted Array | [Python](solutions/remove_duplicates.py) | Easy | Two-pointer technique.               |
 | 27           | Remove Element                  | [Python](solutions/remove_element.py) | Easy  | In-place updates using a pointer.    |
 | 88           | Merge Sorted Array              | [Python](solutions/merge_sorted_array.py) | Easy | Merge using two-pointer approach.    |
 | 605          | Can Place Flowers               | [Python](solutions/can_place_flowers.py) | Easy | Iterative check for flower placement.|
 | 238          | Product of Array Except Self    | [Python](solutions/product_except_self.py) | Medium | Prefix and suffix multiplications.   |
-| 1346         | Check If N and Its Double Exist | [Python](solutions/array/check_double_exist.py) | Easy          | Uses a set for efficient lookups.         |
-
+| 1346         | Check If N and Its Double Exist | [Python](solutions/arrays/check_double_exist.py) | Easy          | Uses a set for efficient lookups.         |
+| 2554         | Maximum Number of Integers to Choose From a Range I | [Python](solutions/arrays/2554_max_count.py)        | Medium        | Iteration, set lookup, and sum constraints       |
 
 ---
 
