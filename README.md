@@ -58,7 +58,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 
 | 🆔 Problem # | 📜 Title                                   | 🔗 Solution                                            | 🚦 Difficulty | 📝 Notes                                       |
 |--------------|-------------------------------------------|------------------------------------------------------|---------------|------------------------------------------------|
-| 1760         | Minimum Limit of Balls in a Bag           | [Python](solutions/BST/1760_minimum_balls_in_bag.py.py)      | Medium        | Binary search for minimal penalty, with operation count |
+| 1760         | Minimum Limit of Balls in a Bag           | [Python](solutions/BST/1760_minimum_balls_in_bag.py)      | Medium        | Binary search for minimal penalty, with operation count |
 
 ---
 
