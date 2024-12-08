@@ -54,12 +54,12 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 3217         | Delete Nodes From Linked List Present in Array | [Python](solutions/delete_nodes.py) | Medium | Traversal and removal of marked nodes.|
 
 ---
-## ✍️ **Binary Search**
+## ✍️ **Binary Search, Greedy**
 
 | 🆔 Problem # | 📜 Title                                   | 🔗 Solution                                            | 🚦 Difficulty | 📝 Notes                                       |
 |--------------|-------------------------------------------|------------------------------------------------------|---------------|------------------------------------------------|
 | 1760         | Minimum Limit of Balls in a Bag           | [Python](solutions/BST/1760_minimum_balls_in_bag.py)      | Medium        | Binary search for minimal penalty, with operation count |
-
+| 2054         | Two Best Non-Overlapping Events           | [Python](solutions/BS%20&%20G/2054_two_best_events.py)           | Medium        | Greedy + Binary Search, Find max non-overlapping event pairs |
 ---
 
 ## 🌐 **Graphs**
