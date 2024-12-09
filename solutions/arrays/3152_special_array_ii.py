@@ -29,3 +29,5 @@ class Solution:
                 result.append(total_changes == (toi - fromi))
         
         return result
+    
+# This code is Contributed by Kalyan Babu Allamudi
