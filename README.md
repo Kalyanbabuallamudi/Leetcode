@@ -30,7 +30,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 238          | Product of Array Except Self    | [Python](solutions/product_except_self.py) | Medium | Prefix and suffix multiplications.   |
 | 1346         | Check If N and Its Double Exist | [Python](solutions/arrays/check_double_exist.py) | Easy          | Uses a set for efficient lookups.         |
 | 2554         | Maximum Number of Integers to Choose From a Range i | [Python](solutions/arrays/2554_max_count.py)        | Medium        | Iteration, set lookup, and sum constraints       |
-
+| 3152         | Special Array II             | [Python](solutions/3152_special_array_ii.py)           | Medium        | Check if subarray has alternating even-odd parity |
 ---
 
 ## ✍️ **Strings**
