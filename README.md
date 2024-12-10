@@ -45,6 +45,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 2109         | Adding Spaces to a String                                    | [Python](solutions/strings/2109_add_spaces_to_string.py) | Medium        | Efficient use of slicing and list join |
 | 2825         | Make String a Subsequence Using Cyclic Increments | [Python](solutions/strings/2825_make_subsequence.py) | Medium        | Two-pointer technique and cyclic character check | 
 | 2337         | Move Pieces to Obtain a String           | [Python](solutions/strings/2337_move_pieces.py)     | Medium        | Two-pointer technique, movement constraints      |
+| 2981         | Find Longest Special Substring That Occurs Thrice | [Python](solutions/strings/2981_find_longest_special_substring_that_occurs_thrice.py) | Medium        | Identify the longest special substring that occurs at least 3 times. |
 ---
 
 ## 🔗 **Linked Lists**
