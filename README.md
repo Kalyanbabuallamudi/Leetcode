@@ -33,6 +33,13 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 3152         | Special Array II             | [Python](solutions/arrays/3152_special_array_ii.py)           | Medium        | Check if subarray has alternating even-odd parity |
 | 2779         | Maximum Beauty of an Array After Applying Operation | [Python](solutions/arrays/2779_maximum_beauty_of_an_array_after_applying_operation.py) | Medium        | Use sliding window and prefix sum to track overlapping intervals. |
 ---
+## ✍️ **Heap, Greedy**
+
+| 🆔 Problem # | 📜 Title                                    | 🔗 Solution                                           | 🚦 Difficulty | 📝 Notes                                       |
+|--------------|--------------------------------------------|-----------------------------------------------------|---------------|-----------------------------------------------|
+| 2558         | Take Gifts From the Richest Pile           | [Python](solutions/Heap%20Greedy/2558_take_gifts_from_the_richest_pile.py) | Easy           | Use a max-heap to efficiently pick and update the largest gift pile. |
+
+--- 
 
 ## ✍️ **Strings**
 
