@@ -32,6 +32,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 2554         | Maximum Number of Integers to Choose From a Range i | [Python](solutions/arrays/2554_max_count.py)        | Medium        | Iteration, set lookup, and sum constraints       |
 | 3152         | Special Array II             | [Python](solutions/arrays/3152_special_array_ii.py)           | Medium        | Check if subarray has alternating even-odd parity |
 | 2779         | Maximum Beauty of an Array After Applying Operation | [Python](solutions/arrays/2779_maximum_beauty_of_an_array_after_applying_operation.py) | Medium        | Use sliding window and prefix sum to track overlapping intervals. |
+| 2593         | Find Score of an Array After Marking All Elements | [Python](solutions/arrays/2593_find_score.py)        | Medium        | Used heap to always get the smallest unmarked element. |
 ---
 ## ✍️ **Heap, Greedy**
 
