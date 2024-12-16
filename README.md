@@ -35,7 +35,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 2593         | Find Score of an Array After Marking All Elements | [Python](solutions/arrays/2593_find_score.py)        | Medium        | Used heap to always get the smallest unmarked element. |
 | 2762         | Continuous Subarrays         | [Python](solutions/arrays/2762_continuous_subarrays.py) | Medium        | Sliding window with deques to maintain min/max of subarrays. |
 
-
+| 3264         | Final Array State After K Multiplication Operations I | [Python](solutions/arrays/3264_final_array_state.py)     | Easy          | Greedy approach to repeatedly update the minimum value in the array. |
 
 ---
 ## ✍️ **Heap, Greedy, Priority Queue**
