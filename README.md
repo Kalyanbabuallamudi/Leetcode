@@ -17,25 +17,27 @@ All solutions are licensed under the [MIT License](LICENSE).
 - [Other Topics](#other-topics) 📚
 
 ---
+---
 
 ## 🧮 **Arrays**
 
-| 🆔 Problem # | 📜 Title                          | 🔗 Solution                       | 🚦 Difficulty | 📝 Notes                                |
-|--------------|----------------------------------|-----------------------------------|---------------|-----------------------------------------|
-| 1            | Two Sum                         | [Python](solutions/arrays/two_sum.py) | Easy          | Hash map for efficient lookup.         |
-| 26           | Remove Duplicates from Sorted Array | [Python](solutions/remove_duplicates.py) | Easy | Two-pointer technique.               |
-| 27           | Remove Element                  | [Python](solutions/remove_element.py) | Easy  | In-place updates using a pointer.    |
-| 88           | Merge Sorted Array              | [Python](solutions/merge_sorted_array.py) | Easy | Merge using two-pointer approach.    |
-| 605          | Can Place Flowers               | [Python](solutions/can_place_flowers.py) | Easy | Iterative check for flower placement.|
-| 238          | Product of Array Except Self    | [Python](solutions/product_except_self.py) | Medium | Prefix and suffix multiplications.   |
-| 1346         | Check If N and Its Double Exist | [Python](solutions/arrays/check_double_exist.py) | Easy          | Uses a set for efficient lookups.         |
-| 2554         | Maximum Number of Integers to Choose From a Range i | [Python](solutions/arrays/2554_max_count.py)        | Medium        | Iteration, set lookup, and sum constraints       |
-| 3152         | Special Array II             | [Python](solutions/arrays/3152_special_array_ii.py)           | Medium        | Check if subarray has alternating even-odd parity |
-| 2779         | Maximum Beauty of an Array After Applying Operation | [Python](solutions/arrays/2779_maximum_beauty_of_an_array_after_applying_operation.py) | Medium        | Use sliding window and prefix sum to track overlapping intervals. |
-| 2593         | Find Score of an Array After Marking All Elements | [Python](solutions/arrays/2593_find_score.py)        | Medium        | Used heap to always get the smallest unmarked element. |
-| 2762         | Continuous Subarrays         | [Python](solutions/arrays/2762_continuous_subarrays.py) | Medium        | Sliding window with deques to maintain min/max of subarrays. |
+| 🆔 **Problem #** | 📜 **Title**                                    | 🔗 **Solution**                                           | 🚦 **Difficulty** | 📝 **Notes**                                           |
+|-----------------|-------------------------------------------------|--------------------------------------------------------|------------------|-------------------------------------------------------|
+| 1               | Two Sum                                         | [Python](solutions/arrays/two_sum.py)                   | Easy             | Hash map for efficient lookup.                        |
+| 26              | Remove Duplicates from Sorted Array             | [Python](solutions/arrays/remove_duplicates.py)         | Easy             | Two-pointer technique.                                |
+| 27              | Remove Element                                  | [Python](solutions/arrays/remove_element.py)            | Easy             | In-place updates using a pointer.                    |
+| 88              | Merge Sorted Array                              | [Python](solutions/arrays/merge_sorted_array.py)        | Easy             | Merge using two-pointer approach.                    |
+| 605             | Can Place Flowers                               | [Python](solutions/arrays/can_place_flowers.py)         | Easy             | Iterative check for flower placement.                |
+| 238             | Product of Array Except Self                    | [Python](solutions/arrays/product_except_self.py)       | Medium           | Prefix and suffix multiplications.                   |
+| 1346            | Check If N and Its Double Exist                 | [Python](solutions/arrays/check_double_exist.py)        | Easy             | Uses a set for efficient lookups.                    |
+| 2554            | Maximum Number of Integers to Choose From a Range | [Python](solutions/arrays/2554_max_count.py)           | Medium           | Iteration, set lookup, and sum constraints.           |
+| 3152            | Special Array II                                | [Python](solutions/arrays/3152_special_array_ii.py)     | Medium           | Check if subarray has alternating even-odd parity.    |
+| 2779            | Maximum Beauty of an Array After Applying Operation | [Python](solutions/arrays/2779_maximum_beauty_of_an_array_after_applying_operation.py) | Medium | Sliding window and prefix sum to track overlapping intervals. |
+| 2593            | Find Score of an Array After Marking All Elements | [Python](solutions/arrays/2593_find_score.py)           | Medium           | Use heap to always get the smallest unmarked element. |
+| 2762            | Continuous Subarrays                            | [Python](solutions/arrays/2762_continuous_subarrays.py) | Medium           | Sliding window with deques to maintain min/max of subarrays. |
+| 3264            | Final Array State After K Multiplication Operations | [Python](solutions/arrays/3264_final_array_state.py)   | Easy             | Greedy approach to repeatedly update the minimum value in the array. |
 
-| 3264         | Final Array State After K Multiplication Operations I | [Python](solutions/arrays/3264_final_array_state.py)     | Easy          | Greedy approach to repeatedly update the minimum value in the array. |
+---
 
 ---
 ## ✍️ **Heap, Greedy, Priority Queue**
