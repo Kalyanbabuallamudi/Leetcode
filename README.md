@@ -38,20 +38,17 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 3264            | Final Array State After K Multiplication Operations | [Python](solutions/arrays/3264_final_array_state.py)   | Easy             | Greedy approach to repeatedly update the minimum value in the array. |
 
 ---
+# ✍️ **Heap, Greedy, Priority Queue**
+
+| 🆔 **Problem #** | 📜 **Title**                            | 🔗 **Solution**                                      | 🚦 **Difficulty** | 📝 **Notes**                                       |
+|-----------------|-----------------------------------------|-----------------------------------------------------|-------------------|---------------------------------------------------|
+| 2558            | [Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile/) | [Python](solutions/Heap%20Greedy%20Priority%20Queue/2558_take_gifts_from_the_richest_pile.py) | 🟢 Easy         | Use a max-heap to efficiently pick and update the largest gift pile. |
+| 1792            | [Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/) | [Python](solutions/Heap%20Greedy%20Priority%20Queue/1792_max_average_pass_ratio.py) | 🟡 Medium       | Use a max-heap to maximize potential gains in pass ratios for each class. |
+| 2182            | [Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit/) | [Python](solutions/Heap%20Greedy%20Priority%20Queue/2182_construct_string_with_repeat_limit.py) | 🟡 Medium       | Use a max-heap to prioritize characters and maintain repeat limits. |
 
 ---
-## ✍️ **Heap, Greedy, Priority Queue**
 
-| 🆔 Problem # | 📜 Title                                    | 🔗 Solution                                           | 🚦 Difficulty | 📝 Notes                                       |
-|--------------|--------------------------------------------|-----------------------------------------------------|---------------|-----------------------------------------------|
-| 2558         | Take Gifts From the Richest Pile           | [Python](solutions/Heap%20Greedy%20Priority%20Queue/2558_take_gifts_from_the_richest_pile.py) | Easy           | Use a max-heap to efficiently pick and update the largest gift pile. |
-| 1792         | Maximum Average Pass Ratio   | [Python](solutions/Heap%20Greedy%20Priority%20Queue/1792_max_average_pass_ratio.py) | Medium        | Used max-heap to maximize potential gains in pass ratios for each class. |
-
-| 2182         | Construct String With Repeat Limit | [Python](solutions/Heap%20Greedy%20Priority%20Queue/2182_construct_string_with_repeat_limit.py) | Medium        | Used max-heap to prioritize characters and maintain repeat limits. |
-
-
-
---- 
+---
 
 ## ✍️ **Strings**
 
