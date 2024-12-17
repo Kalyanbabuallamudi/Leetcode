@@ -46,6 +46,11 @@ All solutions are licensed under the [MIT License](LICENSE).
 |--------------|--------------------------------------------|-----------------------------------------------------|---------------|-----------------------------------------------|
 | 2558         | Take Gifts From the Richest Pile           | [Python](solutions/Heap%20Greedy%20Priority%20Queue/2558_take_gifts_from_the_richest_pile.py) | Easy           | Use a max-heap to efficiently pick and update the largest gift pile. |
 | 1792         | Maximum Average Pass Ratio   | [Python](solutions/Heap%20Greedy%20Priority%20Queue/1792_max_average_pass_ratio.py) | Medium        | Used max-heap to maximize potential gains in pass ratios for each class. |
+
+| 2182         | Construct String With Repeat Limit | [Python](solutions/Heap%20Greedy%20Priority%20Queue/2182_construct_string_with_repeat_limit.py) | Medium        | Used max-heap to prioritize characters and maintain repeat limits. |
+
+
+
 --- 
 
 ## ✍️ **Strings**
