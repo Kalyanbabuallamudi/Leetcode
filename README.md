@@ -37,7 +37,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 2762            | Continuous Subarrays                            | [Python](solutions/arrays/2762_continuous_subarrays.py) | Medium           | Sliding window with deques to maintain min/max of subarrays. |
 | 3264            | Final Array State After K Multiplication Operations | [Python](solutions/arrays/3264_final_array_state.py)   | Easy             | Greedy approach to repeatedly update the minimum value in the array. |
 | 1475         | Final Prices With a Special Discount in a Shop | [Python](solutions/arrays/1475_final_prices_with_discount.py) | Easy          | Brute-force approach to find the nearest smaller price for each item. |
-
+| 769          | Max Chunks To Make Sorted      | [Python](solutions/arrays/769_max_chunks_to_make_sorted.py) | Medium        | Greedily track the maximum value to identify chunk boundaries. |
 ---
 # ✍️ **Heap, Greedy, Priority Queue**
 
