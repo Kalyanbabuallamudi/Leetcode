@@ -48,6 +48,11 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 2182            | [Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit/) | [Python](solutions/Heap%20Greedy%20Priority%20Queue/2182_construct_string_with_repeat_limit.py) | 🟡 Medium       | Use a max-heap to prioritize characters and maintain repeat limits. |
 
 ---
+## ✍️ **Binary Tree, BFS, Queue**
+
+| 🆔 Problem # | 📜 Title                        | 🔗 Solution                                      | 🚦 Difficulty | 📝 Notes                                          |
+|--------------|---------------------------------|-------------------------------------------------|---------------|--------------------------------------------------|
+| 2415         | Reverse Odd Levels of Binary Tree | [Python](solutions/Binary%20Tree,%20BFS,%20Queue/2415_reverse_odd_levels_of_binary_tree.py) | Medium        | Uses BFS to traverse levels and reverses node values at odd levels. |
 
 ---
 
