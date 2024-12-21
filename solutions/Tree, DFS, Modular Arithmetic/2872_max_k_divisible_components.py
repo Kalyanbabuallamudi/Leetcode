@@ -28,6 +28,5 @@ class Solution:
         # Start DFS from the first node (node 0)
         dfs(0, -1)
         return self.components
-
-
+    
 # This Code is Contributed by Kalyan Babu Allamudi
