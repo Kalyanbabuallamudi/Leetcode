@@ -94,7 +94,14 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 773          | Sliding Puzzle                  | [Python](solutions/sliding_puzzle.py) | Hard  | BFS with state hashing.              |
 
 ---
+## ✍️ **Tree, DFS, Modular Arithmetic**
 
+| 🆔 Problem # | 📜 Title                            | 🔗 Solution                                             | 🚦 Difficulty | 📝 Notes                                           |
+|--------------|-------------------------------------|--------------------------------------------------------|---------------|---------------------------------------------------|
+| 2872         | Maximum Number of K-Divisible Components | [Python](solutions/Tree,%20DFS,%20Modular%20Arithmetic/2872_max_k_divisible_components.py) | Hard          | Uses DFS to calculate subtree sums and modular arithmetic for valid splits. |
+
+
+---
 ## 🤖 **Dynamic Programming**
 
 | 🆔 Problem # | 📜 Title                          | 🔗 Solution                       | 🚦 Difficulty | 📝 Notes                                |
