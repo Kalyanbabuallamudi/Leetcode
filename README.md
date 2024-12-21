@@ -100,7 +100,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 
 | 🆔 **Problem #** | 📜 **Title**                           | 🔗 **Solution**                                      | 🚦 **Difficulty** | 📝 **Notes**                                      |
 |-----------------|----------------------------------------|-----------------------------------------------------|-------------------|---------------------------------------------------|
-| 2415            | Reverse Odd Levels of Binary Tree      | [Python](solutions/Tree%20DFS%20Modular%20Arithmetic/2415_reverse_odd_levels.py) | Medium            | DFS traversal with recursion to reverse odd levels. |
+| 2415            | Reverse Odd Levels of Binary Tree      | [Python](solutions/Tree,%20DFS,%20Modular%20Arithmetic/2872_max_k_divisible_components.py) | Medium            | DFS traversal with recursion to reverse odd levels. |
 
 
 ## 📚 **Other Topics**
