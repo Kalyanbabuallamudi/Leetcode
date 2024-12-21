@@ -24,84 +24,82 @@ All solutions are licensed under the [MIT License](LICENSE).
 
 ## **Array**
 
-
-| **Problem #** | **Title**                                    | **Solution**                                           | **Difficulty** | **Notes**                                           |
-|----------------|-----------------------------------------------|--------------------------------------------------------|----------------|-----------------------------------------------------|
-| 1              | Two Sum                                       | [Python](solutions/arrays/two_sum.py)                   | Easy           | Hash map for efficient lookup.                      |
-| 26             | Remove Duplicates from Sorted Array           | [Python](solutions/arrays/remove_duplicates.py)         | Easy           | Two-pointer technique.                              |
-| 27             | Remove Element                                | [Python](solutions/arrays/remove_element.py)            | Easy           | In-place updates using a pointer.                   |
-| 88             | Merge Sorted Array                            | [Python](solutions/arrays/merge_sorted_array.py)        | Easy           | Merge using two-pointer approach.                   |
-| 605            | Can Place Flowers                             | [Python](solutions/arrays/can_place_flowers.py)         | Easy           | Iterative check for flower placement.               |
-| 238            | Product of Array Except Self                  | [Python](solutions/arrays/product_except_self.py)       | Medium         | Prefix and suffix multiplications.                  |
-| 1346           | Check If N and Its Double Exist               | [Python](solutions/arrays/check_double_exist.py)        | Easy           | Uses a set for efficient lookups.                   |
-| 2554           | Maximum Number of Integers to Choose From a Range | [Python](solutions/arrays/2554_max_count.py)           | Medium         | Iteration, set lookup, and sum constraints.         |
-| 3152           | Special Array II                              | [Python](solutions/arrays/3152_special_array_ii.py)     | Medium         | Check if subarray has alternating even-odd parity.  |
-| 2779           | Maximum Beauty of an Array After Applying Operation | [Python](solutions/arrays/2779_maximum_beauty_of_an_array_after_applying_operation.py) | Medium | Sliding window and prefix sum to track overlapping intervals. |
-| 2593           | Find Score of an Array After Marking All Elements | [Python](solutions/arrays/2593_find_score.py)           | Medium         | Use heap to always get the smallest unmarked element. |
-| 2762           | Continuous Subarrays                          | [Python](solutions/arrays/2762_continuous_subarrays.py) | Medium         | Sliding window with deques to maintain min/max of subarrays. |
-| 3264           | Final Array State After K Multiplication Operations | [Python](solutions/arrays/3264_final_array_state.py)    | Easy           | Greedy approach to repeatedly update the minimum value in the array. |
-| 1475           | Final Prices With a Special Discount in a Shop | [Python](solutions/arrays/1475_final_prices_with_discount.py) | Easy      | Brute-force approach to find the nearest smaller price for each item. |
-| 769            | Max Chunks To Make Sorted                     | [Python](solutions/arrays/769_max_chunks_to_make_sorted.py) | Medium     | Greedily track the maximum value to identify chunk boundaries. |
+| **Problem #** | **Title**                                    | **Solution**                                           | **Difficulty** |
+|----------------|-----------------------------------------------|--------------------------------------------------------|----------------|
+| 1              | Two Sum                                       | [Python](solutions/arrays/two_sum.py)                   | Easy           |
+| 26             | Remove Duplicates from Sorted Array           | [Python](solutions/arrays/remove_duplicates.py)         | Easy           |
+| 27             | Remove Element                                | [Python](solutions/arrays/remove_element.py)            | Easy           |
+| 88             | Merge Sorted Array                            | [Python](solutions/arrays/merge_sorted_array.py)        | Easy           |
+| 605            | Can Place Flowers                             | [Python](solutions/arrays/can_place_flowers.py)         | Easy           |
+| 238            | Product of Array Except Self                  | [Python](solutions/arrays/product_except_self.py)       | Medium         |
+| 1346           | Check If N and Its Double Exist               | [Python](solutions/arrays/check_double_exist.py)        | Easy           |
+| 2554           | Maximum Number of Integers to Choose From a Range | [Python](solutions/arrays/2554_max_count.py)           | Medium         |
+| 3152           | Special Array II                              | [Python](solutions/arrays/3152_special_array_ii.py)     | Medium         |
+| 2779           | Maximum Beauty of an Array After Applying Operation | [Python](solutions/arrays/2779_maximum_beauty_of_an_array_after_applying_operation.py) | Medium |
+| 2593           | Find Score of an Array After Marking All Elements | [Python](solutions/arrays/2593_find_score.py)           | Medium         |
+| 2762           | Continuous Subarrays                          | [Python](solutions/arrays/2762_continuous_subarrays.py) | Medium         |
+| 3264           | Final Array State After K Multiplication Operations | [Python](solutions/arrays/3264_final_array_state.py)    | Easy           |
+| 1475           | Final Prices With a Special Discount in a Shop | [Python](solutions/arrays/1475_final_prices_with_discount.py) | Easy      |
+| 769            | Max Chunks To Make Sorted                     | [Python](solutions/arrays/769_max_chunks_to_make_sorted.py) | Medium     |
 
 ---
 
 ## **Heap, Greedy, Priority Queue**
 
-| **Problem #** | **Title**                            | **Solution**                                      | **Difficulty** | **Notes**                                       |
-|----------------|--------------------------------------|-------------------------------------------------|----------------|-------------------------------------------------|
-| 2558           | [Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile/) | [Python](solutions/Heap%20Greedy%20Priority%20Queue/2558_take_gifts_from_the_richest_pile.py) | Easy           | Use a max-heap to efficiently pick and update the largest gift pile. |
-| 1792           | [Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/) | [Python](solutions/Heap%20Greedy%20Priority%20Queue/1792_max_average_pass_ratio.py) | Medium         | Use a max-heap to maximize potential gains in pass ratios for each class. |
-| 2182           | [Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit/) | [Python](solutions/Heap%20Greedy%20Priority%20Queue/2182_construct_string_with_repeat_limit.py) | Medium         | Use a max-heap to prioritize characters and maintain repeat limits. |
+| **Problem #** | **Title**                            | **Solution**                                      | **Difficulty** |
+|----------------|--------------------------------------|-------------------------------------------------|----------------|
+| 2558           | [Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile/) | [Python](solutions/Heap%20Greedy%20Priority%20Queue/2558_take_gifts_from_the_richest_pile.py) | Easy           |
+| 1792           | [Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/) | [Python](solutions/Heap%20Greedy%20Priority%20Queue/1792_max_average_pass_ratio.py) | Medium         |
+| 2182           | [Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit/) | [Python](solutions/Heap%20Greedy%20Priority%20Queue/2182_construct_string_with_repeat_limit.py) | Medium         |
 
 ---
 
 ## **Binary Tree, BFS, Queue**
 
-| **Problem #** | **Title**                        | **Solution**                                      | **Difficulty** | **Notes**                                          |
-|----------------|-----------------------------------|--------------------------------------------------|----------------|----------------------------------------------------|
-| 2415           | Reverse Odd Levels of Binary Tree | [Python](solutions/Binary%20Tree,%20BFS,%20Queue/2415_reverse_odd_levels_of_binary_tree.py) | Medium         | Uses BFS to traverse levels and reverses node values at odd levels. |
+| **Problem #** | **Title**                        | **Solution**                                      | **Difficulty** |
+|----------------|-----------------------------------|--------------------------------------------------|----------------|
+| 2415           | Reverse Odd Levels of Binary Tree | [Python](solutions/Binary%20Tree,%20BFS,%20Queue/2415_reverse_odd_levels_of_binary_tree.py) | Medium         |
 
 ---
 
 ## **Strings**
 
-| **Problem #** | **Title**                               | **Solution**                                   | **Difficulty** | **Notes**                                   |
-|----------------|-----------------------------------------|-----------------------------------------------|----------------|---------------------------------------------|
-| 2000           | Reverse Prefix of Word                 | [Python](solutions/reverse_prefix.py)          | Easy           | String slicing and iteration.              |
-| 345            | Reverse Vowels of a String             | [Python](solutions/reverse_vowels.py)          | Easy           | Two-pointer swap technique.                |
-| 151            | Reverse Words in a String              | [Python](solutions/reverse_words.py)           | Medium         | Splitting and reversing words.             |
-| 1071           | Greatest Common Divisor of Strings     | [Python](solutions/gcd_strings.py)             | Easy           | Utilized GCD for substring checks.         |
-| 1455           | Check If a Word Occurs As a Prefix of Any Word in a Sentence | [Python](solutions/strings/prefix_check.py)    | Easy           | Split sentence, check prefix using `startswith`. |
-| 2109           | Adding Spaces to a String              | [Python](solutions/strings/2109_add_spaces_to_string.py) | Medium         | Efficient use of slicing and list join.    |
-| 2825           | Make String a Subsequence Using Cyclic Increments | [Python](solutions/strings/2825_make_subsequence.py) | Medium         | Two-pointer technique and cyclic character check. |
-| 2337           | Move Pieces to Obtain a String         | [Python](solutions/strings/2337_move_pieces.py) | Medium         | Two-pointer technique, movement constraints. |
-| 2981           | Find Longest Special Substring That Occurs Thrice | [Python](solutions/strings/2981_find_longest_special_substring_that_occurs_thrice.py) | Medium         | Identify the longest special substring that occurs at least 3 times. |
+| **Problem #** | **Title**                               | **Solution**                                   | **Difficulty** |
+|----------------|-----------------------------------------|-----------------------------------------------|----------------|
+| 2000           | Reverse Prefix of Word                 | [Python](solutions/reverse_prefix.py)          | Easy           |
+| 345            | Reverse Vowels of a String             | [Python](solutions/reverse_vowels.py)          | Easy           |
+| 151            | Reverse Words in a String              | [Python](solutions/reverse_words.py)           | Medium         |
+| 1071           | Greatest Common Divisor of Strings     | [Python](solutions/gcd_strings.py)             | Easy           |
+| 1455           | Check If a Word Occurs As a Prefix of Any Word in a Sentence | [Python](solutions/strings/prefix_check.py)    | Easy           |
+| 2109           | Adding Spaces to a String              | [Python](solutions/strings/2109_add_spaces_to_string.py) | Medium         |
+| 2825           | Make String a Subsequence Using Cyclic Increments | [Python](solutions/strings/2825_make_subsequence.py) | Medium         |
+| 2337           | Move Pieces to Obtain a String         | [Python](solutions/strings/2337_move_pieces.py) | Medium         |
+| 2981           | Find Longest Special Substring That Occurs Thrice | [Python](solutions/strings/2981_find_longest_special_substring_that_occurs_thrice.py) | Medium         |
 
 ---
 
 ## **Linked Lists**
 
-| **Problem #** | **Title**                          | **Solution**                         | **Difficulty** | **Notes**                                    |
-|----------------|-------------------------------------|--------------------------------------|----------------|---------------------------------------------|
-| 3217           | Delete Nodes From Linked List Present in Array | [Python](solutions/delete_nodes.py)   | Medium         | Traversal and removal of marked nodes.      |
+| **Problem #** | **Title**                          | **Solution**                         | **Difficulty** |
+|----------------|-------------------------------------|--------------------------------------|----------------|
+| 3217           | Delete Nodes From Linked List Present in Array | [Python](solutions/delete_nodes.py)   | Medium         |
 
 ---
 
 ## **Binary Search, Greedy**
 
-| **Problem #** | **Title**                               | **Solution**                                         | **Difficulty** | **Notes**                                         |
-|----------------|------------------------------------------|-----------------------------------------------------|----------------|---------------------------------------------------|
-| 1760           | Minimum Limit of Balls in a Bag         | [Python](solutions/BST/1760_minimum_balls_in_bag.py)  | Medium         | Binary search for minimal penalty, with operation count |
-| 2054           | Two Best Non-Overlapping Events          | [Python](solutions/Greedy%20Binary%20Search/2054_best_nonoverlapping_events.py) | Medium         | Binary search to identify the best non-overlapping intervals |
+| **Problem #** | **Title**                               | **Solution**                                         | **Difficulty** |
+|----------------|------------------------------------------|-----------------------------------------------------|----------------|
+| 1760           | Minimum Limit of Balls in a Bag         | [Python](solutions/BST/1760_minimum_balls_in_bag.py)  | Medium         |
+| 2054           | Two Best Non-Overlapping Events          | [Python](solutions/Greedy%20Binary%20Search/2054_best_nonoverlapping_events.py) | Medium         |
 
 ---
 
 ## **Tree, DFS, Modular Arithmetic**
 
-| **Problem #** | **Title**                               | **Solution**                                       | **Difficulty** | **Notes**                                        |
-|----------------|------------------------------------------|----------------------------------------------------|----------------|--------------------------------------------------|
-| 2872           | Reverse Odd Levels of Binary Tree       | [Python](solutions/Tree,%20DFS,%20Modular%20Arithmetic/2872_max_k_divisible_components.py)  | Easy          | DFS on binary tree with odd-level reverse. |
-
+| **Problem #** | **Title**                               | **Solution**                                       | **Difficulty** |
+|----------------|------------------------------------------|----------------------------------------------------|----------------|
+| 2872           | Reverse Odd Levels of Binary Tree       | [Python](solutions/Tree,%20DFS,%20Modular%20Arithmetic/2872_max_k_divisible_components.py)  | Easy          |
 
 ### 🌟 **How to Use This Repository**
 1. Navigate to the section of interest using the [Table of Contents](#table-of-contents).  
@@ -110,6 +108,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 4. Feel free to contribute or suggest improvements via pull requests! 🤝
 
 ---
+
 ### ⚡ **Contributing**
 - Fork the repository and make changes.
 - Submit a pull request with a description of your improvements.
