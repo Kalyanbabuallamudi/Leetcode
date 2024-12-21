@@ -22,7 +22,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 
 ---
 
-## 🧮 **Arrays**
+## 🧮 **Array**
 
 | 🆔 **Problem #** | 📜 **Title**                                    | 🔗 **Solution**                                           | 🚦 **Difficulty** | 📝 **Notes**                                           |
 |-----------------|-------------------------------------------------|--------------------------------------------------------|------------------|-------------------------------------------------------|
@@ -91,34 +91,16 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 🆔 **Problem #** | 📜 **Title**                            | 🔗 **Solution**                                        | 🚦 **Difficulty** | 📝 **Notes**                                       |
 |-----------------|-----------------------------------------|-------------------------------------------------------|-------------------|---------------------------------------------------|
 | 1760            | Minimum Limit of Balls in a Bag        | [Python](solutions/BST/1760_minimum_balls_in_bag.py)  | Medium            | Binary search for minimal penalty, with operation count |
-| 2054            | Two Best Non-Overlapping Events        | [Python](solutions/BS%20&%20G/2054_two_best_events.py) | Medium            | Greedy + Binary Search, Find max non-overlapping event pairs |
-
----
-
-## 🌐 **Graphs**
-
-| 🆔 **Problem #** | 📜 **Title**                            | 🔗 **Solution**                                       | 🚦 **Difficulty** | 📝 **Notes**                                |
-|-----------------|----------------------------------------|------------------------------------------------------|-------------------|---------------------------------------------|
-| 2577            | Minimum Time to Visit a Cell in a Grid | [Python](solutions/min_time_grid.py)                  | Hard              | BFS with a priority queue.                  |
-| 773             | Sliding Puzzle                         | [Python](solutions/sliding_puzzle.py)                 | Hard              | BFS with state hashing.                     |
+| 2054            | Two Best Non-Overlapping Events         | [Python](solutions/Greedy%20Binary%20Search/2054_best_nonoverlapping_events.py) | Medium            | Binary search to identify the best non-overlapping intervals |
 
 ---
 
 ## 🌲 **Tree, DFS, Modular Arithmetic**
 
-| 🆔 **Problem #** | 📜 **Title**                              | 🔗 **Solution**                                        | 🚦 **Difficulty** | 📝 **Notes**                                     |
-|-----------------|-------------------------------------------|-------------------------------------------------------|-------------------|-------------------------------------------------|
-| 2872            | Maximum Number of K-Divisible Components  | [Python](solutions/Tree,%20DFS,%20Modular%20Arithmetic/2872_max_k_divisible_components.py) | Hard              | Uses DFS to calculate subtree sums and modular arithmetic for valid splits. |
+| 🆔 **Problem #** | 📜 **Title**                           | 🔗 **Solution**                                      | 🚦 **Difficulty** | 📝 **Notes**                                      |
+|-----------------|----------------------------------------|-----------------------------------------------------|-------------------|---------------------------------------------------|
+| 2415            | Reverse Odd Levels of Binary Tree      | [Python](solutions/Tree%20DFS%20Modular%20Arithmetic/2415_reverse_odd_levels.py) | Medium            | DFS traversal with recursion to reverse odd levels. |
 
----
-
-## 🤖 **Dynamic Programming**
-
-| 🆔 **Problem #** | 📜 **Title**                              | 🔗 **Solution**                                        | 🚦 **Difficulty** | 📝 **Notes**                                     |
-|-----------------|-------------------------------------------|-------------------------------------------------------|-------------------|-------------------------------------------------|
-| 1508            | Range Sum of Sorted Subarray Sums         | [Python](solutions/range_sum.py)                       | Medium            | Prefix sums with sorted subarrays.              |
-
----
 
 ## 📚 **Other Topics**
 
