@@ -41,7 +41,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 3264           | Final Array State After K Multiplication Operations | [Python](solutions/arrays/3264_final_array_state.py)    | Easy           |
 | 1475           | Final Prices With a Special Discount in a Shop | [Python](solutions/arrays/1475_final_prices_with_discount.py) | Easy      |
 | 769            | Max Chunks To Make Sorted                     | [Python](solutions/arrays/769_max_chunks_to_make_sorted.py) | Medium     |
-
+| 2940          | Find Building Where Alice and Bob Can Meet    | [Python](solutions/arrays/2940_Find%20Building%20Where%20Alice%20and%20Bob%20Can%20Meet.py)       | Hard           |
 ---
 
 ## **Heap, Greedy, Priority Queue**
