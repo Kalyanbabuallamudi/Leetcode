@@ -54,7 +54,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 
 ---
 
-## **Binary Tree, BFS, Greedy, Queue**
+## **Binary Tree, BFS, Queue**
 
 | **Problem #** | **Title**                        | **Solution**                                      | **Difficulty** |
 |----------------|-----------------------------------|--------------------------------------------------|----------------|
