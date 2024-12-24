@@ -100,7 +100,8 @@ All solutions are licensed under the [MIT License](LICENSE).
 | **Problem #** | **Title**                               | **Solution**                                       | **Difficulty** |
 |----------------|------------------------------------------|----------------------------------------------------|----------------|
 | 2872           | Reverse Odd Levels of Binary Tree       | [Python](solutions/Tree,%20DFS,%20Modular%20Arithmetic/2872_max_k_divisible_components.py)  | Easy          |
-
+| 3203         | Find Minimum Diameter After Merging Two Trees     | [Python](solutions/Tree,%20DFS,%20Modular%20Arithmetic/3203_min_diameter_merge_trees.py)  | Hard          |
+---
 ### 🌟 **How to Use This Repository**
 1. Navigate to the section of interest using the [Table of Contents](#table-of-contents).  
 2. Click the solution link to view the implementation details.  
