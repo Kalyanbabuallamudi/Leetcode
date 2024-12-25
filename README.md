@@ -19,6 +19,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 - [Binary Tree, BFS, Queue](#binary-tree-bfs-queue)
 - [Binary Search, Greedy](#binary-search-greedy)
 - [Tree, DFS, Modular Arithmetic](#tree-dfs-modular-arithmetic)
+- [Tree, BFS](#tree-bfs)
 
 ---
 
@@ -101,6 +102,13 @@ All solutions are licensed under the [MIT License](LICENSE).
 |----------------|------------------------------------------|----------------------------------------------------|----------------|
 | 2872           | Reverse Odd Levels of Binary Tree       | [Python](solutions/Tree,%20DFS,%20Modular%20Arithmetic/2872_max_k_divisible_components.py)  | Easy          |
 | 3203         | Find Minimum Diameter After Merging Two Trees     | [Python](solutions/Tree,%20DFS,%20Modular%20Arithmetic/3203_min_diameter_merge_trees.py)  | Hard          |
+---
+## **Tree, BFS**
+
+| 🆔 Problem # | 📜 Title                                | 🔗 Solution                                           | 🚦 Difficulty |
+|--------------|----------------------------------------|------------------------------------------------------|---------------|
+| 515          | Find Largest Value in Each Tree Row   | [Python](solutions/Tree%20BFS/515_largest_value_tree_row.py)    | Medium        |
+
 ---
 ### 🌟 **How to Use This Repository**
 1. Navigate to the section of interest using the [Table of Contents](#table-of-contents).  
