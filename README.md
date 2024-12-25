@@ -105,7 +105,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 ---
 ## **Tree, BFS**
 
-| 🆔 Problem # | 📜 Title                                | 🔗 Solution                                           | 🚦 Difficulty |
+| **Problem #** |  **Title**                                | **Solution**                                           | **Difficulty** |
 |--------------|----------------------------------------|------------------------------------------------------|---------------|
 | 515          | Find Largest Value in Each Tree Row   | [Python](solutions/Tree%20BFS/515_largest_value_tree_row.py)    | Medium        |
 
