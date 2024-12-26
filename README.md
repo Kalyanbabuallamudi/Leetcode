@@ -20,7 +20,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 - [Binary Search, Greedy](#binary-search-greedy)
 - [Tree, DFS, Modular Arithmetic](#tree-dfs-modular-arithmetic)
 - [Tree, BFS](#tree-bfs)
-
+- [Dynamic Programming] (#dynamic-programming)
 ---
 
 ## **Array**
@@ -108,6 +108,13 @@ All solutions are licensed under the [MIT License](LICENSE).
 | **Problem #** |  **Title**                                | **Solution**                                           | **Difficulty** |
 |--------------|----------------------------------------|------------------------------------------------------|---------------|
 | 515          | Find Largest Value in Each Tree Row   | [Python](solutions/Tree%20BFS/515_largest_value_tree_row.py)    | Medium        |
+
+---
+## **Dynamic Programming**
+
+| 🆔 Problem # | 📜 Title              | 🔗 Solution                                      | 🚦 Difficulty |
+|--------------|----------------------|------------------------------------------------|---------------|
+| 494          | Target Sum           | [Python](solutions/Dynamic%20Programming/494_target_sum.py)          | Medium        |
 
 ---
 ### 🌟 **How to Use This Repository**
