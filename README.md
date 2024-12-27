@@ -12,6 +12,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 - [Array](#array)
 - [Strings](#strings)
 - [Linked Lists](#linked-lists)
+- [Sliding Window] (#sliding-window)
 - [Graphs](#graphs)
 - [Dynamic Programming](#dynamic-programming)
 - [Other Topics](#other-topics)
@@ -86,7 +87,13 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 3217           | Delete Nodes From Linked List Present in Array | [Python](solutions/delete_nodes.py)   | Medium         |
 
 ---
+## **Sliding Window**
 
+| 🆔 Problem # | 📜 Title                     | 🔗 Solution                                      | 🚦 Difficulty |
+|--------------|-----------------------------|------------------------------------------------|---------------|
+| 1014         | Best Sightseeing Pair       | [Python](solutions/Sliding%20Window/1014_best_sightseeing_pair.py) | Medium        |
+
+---
 ## **Binary Search, Greedy**
 
 | **Problem #** | **Title**                               | **Solution**                                         | **Difficulty** |
