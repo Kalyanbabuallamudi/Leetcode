@@ -12,7 +12,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 - [Array](#array)
 - [Strings](#strings)
 - [Linked Lists](#linked-lists)
-- [Sliding Window] (#sliding-window)
+- [Sliding Window](#sliding-window)
 - [Graphs](#graphs)
 - [Dynamic Programming](#dynamic-programming)
 - [Other Topics](#other-topics)
