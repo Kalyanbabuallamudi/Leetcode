@@ -122,7 +122,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 🆔 Problem # | 📜 Title              | 🔗 Solution                                      | 🚦 Difficulty |
 |--------------|----------------------|------------------------------------------------|---------------|
 | 494          | Target Sum           | [Python](solutions/Dynamic%20Programming/494_target_sum.py)          | Medium        |
-
+| 689          | Maximum Sum of 3 Non-Overlapping Subarrays | [Python](solutions/Dynamic%20Programming/689_max_sum_3_subarrays.py)        | Hard          |
 ---
 ### 🌟 **How to Use This Repository**
 1. Navigate to the section of interest using the [Table of Contents](#table-of-contents).  
