@@ -125,6 +125,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 689          | Maximum Sum of 3 Non-Overlapping Subarrays | [Python](solutions/Dynamic%20Programming/689_max_sum_3_subarrays.py)        | Hard          |
 | 1639         | Number of Ways to Form a Target String Given a Dictionary | [Python](solutions/1639_num_ways_target_string.py) | Hard          |
 | 1639         | Number of Ways to Form a Target String Given a Dictionary | [Python](solutions/Dynamic%20Programming/1639_num_ways_target_string.py) | Hard          |
+| 2466         | Count Ways To Build Good Strings  | [Python](solutions/Dynamic%20Programming/2466_count_good_strings.py)        | Medium        |
 ---
 ### 🌟 **How to Use This Repository**
 1. Navigate to the section of interest using the [Table of Contents](#table-of-contents).  
