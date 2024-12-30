@@ -89,7 +89,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 ---
 ## **Sliding Window**
 
-| 🆔 Problem # | 📜 Title                     | 🔗 Solution                                      | 🚦 Difficulty |
+| **Problem #** |  **Title**                     |  **Solution**                                      |  Difficulty |
 |--------------|-----------------------------|------------------------------------------------|---------------|
 | 1014         | Best Sightseeing Pair       | [Python](solutions/Sliding%20Window/1014_best_sightseeing_pair.py) | Medium        |
 
@@ -119,7 +119,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 ---
 ## **Dynamic Programming**
 
-| 🆔 Problem # | 📜 Title              | 🔗 Solution                                      | 🚦 Difficulty |
+| **Problem #** | **Title**              |  **Solution**                                      | 🚦 Difficulty |
 |--------------|----------------------|------------------------------------------------|---------------|
 | 494          | Target Sum           | [Python](solutions/Dynamic%20Programming/494_target_sum.py)          | Medium        |
 | 689          | Maximum Sum of 3 Non-Overlapping Subarrays | [Python](solutions/Dynamic%20Programming/689_max_sum_3_subarrays.py)        | Hard          |
