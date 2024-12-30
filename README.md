@@ -21,7 +21,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 - [Binary Search, Greedy](#binary-search-greedy)
 - [Tree, DFS, Modular Arithmetic](#tree-dfs-modular-arithmetic)
 - [Tree, BFS](#tree-bfs)
-- [Dynamic Programming] (#dynamic-programming)
+- [Dynamic Programming](#dynamic-programming)
 ---
 
 ## **Array**
