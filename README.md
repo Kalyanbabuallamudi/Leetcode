@@ -126,6 +126,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 1639         | Number of Ways to Form a Target String Given a Dictionary | [Python](solutions/1639_num_ways_target_string.py) | Hard          |
 | 1639         | Number of Ways to Form a Target String Given a Dictionary | [Python](solutions/Dynamic%20Programming/1639_num_ways_target_string.py) | Hard          |
 | 2466         | Count Ways To Build Good Strings  | [Python](solutions/Dynamic%20Programming/2466_count_good_strings.py)        | Medium        |
+| 983          | Minimum Cost For Tickets      | [Python](solutions/Dynamic%20Programming/983_minimum_cost_for_tickets.py) | Medium        | DP array tracks min cost for each day of the year |
 ---
 ### 🌟 **How to Use This Repository**
 1. Navigate to the section of interest using the [Table of Contents](#table-of-contents).  
