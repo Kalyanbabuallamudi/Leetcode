@@ -53,7 +53,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 2558           | [Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile/) | [Python](solutions/Heap%20Greedy%20Priority%20Queue/2558_take_gifts_from_the_richest_pile.py) | Easy           |
 | 1792           | [Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/) | [Python](solutions/Heap%20Greedy%20Priority%20Queue/1792_max_average_pass_ratio.py) | Medium         |
 | 2182           | [Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit/) | [Python](solutions/Heap%20Greedy%20Priority%20Queue/2182_construct_string_with_repeat_limit.py) | Medium         |
-
+| 1422         | Maximum Score After Splitting a String | [Python](solutions/Heap%20Greedy%20Priority%20Queue/1422_maximum_score.py)      | Easy          | Split the string at each position, calculate score |
 ---
 
 ## **Binary Tree, BFS, Queue**
