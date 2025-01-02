@@ -77,7 +77,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 2825           | Make String a Subsequence Using Cyclic Increments | [Python](solutions/strings/2825_make_subsequence.py) | Medium         |
 | 2337           | Move Pieces to Obtain a String         | [Python](solutions/strings/2337_move_pieces.py) | Medium         |
 | 2981           | Find Longest Special Substring That Occurs Thrice | [Python](solutions/strings/2981_find_longest_special_substring_that_occurs_thrice.py) | Medium         |
-
+| 2559         | Count Vowel Strings in Ranges      | [Python](solutions/strings/2559_vowel_strings.py)      | Medium        | 
 ---
 
 ## **Linked Lists**
