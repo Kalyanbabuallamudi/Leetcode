@@ -80,6 +80,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 2981           | Find Longest Special Substring That Occurs Thrice | [Python](solutions/strings/2981_find_longest_special_substring_that_occurs_thrice.py) | Medium         |
 | 2559         | Count Vowel Strings in Ranges      | [Python](solutions/strings/2559_vowel_strings.py)      | Medium        | 
 | 1930         | Unique Length-3 Palindromic Subsequences | [Python](solutions/strings/1930_unique_palindromic_subsequences.py) | Medium        | 
+| 2381         | Shifting Letters II         | [Python](solutions/strings/2381_shifting_letters_ii.py) | Medium        |
 ---
 
 ## **Linked Lists**
