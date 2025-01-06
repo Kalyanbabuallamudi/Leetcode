@@ -45,6 +45,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 769            | Max Chunks To Make Sorted                     | [Python](solutions/arrays/769_max_chunks_to_make_sorted.py) | Medium     |
 | 2940          | Find Building Where Alice and Bob Can Meet    | [Python](solutions/arrays/2940_Find%20Building%20Where%20Alice%20and%20Bob%20Can%20Meet.py)       | Hard           |
 | 2270         | Number of Ways to Split Array   | [Python](solutions/arrays/2270_number_of_ways_to_split_array.py) | Medium        |
+| 1769         | Minimum Number of Operations to Move All Balls to Each Box | [Python](solutions/arrays/1769_min_operations_balls.py) | Medium        | 
 ---
 
 ## **Heap, Greedy, Priority Queue**
