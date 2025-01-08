@@ -83,6 +83,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 1930         | Unique Length-3 Palindromic Subsequences | [Python](solutions/strings/1930_unique_palindromic_subsequences.py) | Medium        | 
 | 2381         | Shifting Letters II         | [Python](solutions/strings/2381_shifting_letters_ii.py) | Medium        |
 | 1408         | String Matching in an Array     | [Python](solutions/strings/1408_string_matching.py)     | Easy          |
+| 3042         | Count Prefix and Suffix Pairs I   | [Python](solutions/strings/3042_count_prefix_suffix.py) | Easy          | 
 ---
 
 ## **Linked Lists**
