@@ -84,6 +84,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 2381         | Shifting Letters II         | [Python](solutions/strings/2381_shifting_letters_ii.py) | Medium        |
 | 1408         | String Matching in an Array     | [Python](solutions/strings/1408_string_matching.py)     | Easy          |
 | 3042         | Count Prefix and Suffix Pairs I   | [Python](solutions/strings/3042_count_prefix_suffix.py) | Easy          | 
+| 2185         | Counting Words With a Given Prefix     | [Python](solutions/strings/2185_count_prefix_words.py) | Easy          |
 ---
 
 ## **Linked Lists**
