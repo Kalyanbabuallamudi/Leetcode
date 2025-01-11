@@ -86,7 +86,8 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 3042         | Count Prefix and Suffix Pairs I   | [Python](solutions/strings/3042_count_prefix_suffix.py) | Easy          | 
 | 2185         | Counting Words With a Given Prefix     | [Python](solutions/strings/2185_count_prefix_words.py) | Easy          |
 | 916          | Word Subsets                 | [Python](solutions/strings/916_word_subsets.py)        | Medium        |
-
+| 1400         | Construct K Palindrome Strings   | [Python](solutions/strings/1400_Construct_K_Palindrome_Strings.py) | Medium        |
+---
 ## **Linked Lists**
 
 | **Problem #** | **Title**                          | **Solution**                         | **Difficulty** |
