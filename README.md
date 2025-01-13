@@ -88,6 +88,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 916          | Word Subsets                 | [Python](solutions/strings/916_word_subsets.py)        | Medium        |
 | 1400         | Construct K Palindrome Strings   | [Python](solutions/strings/1400_Construct_K_Palindrome_Strings.py) | Medium        |
 | 2116         | Check if a Parentheses String Can Be Valid | [Python](solutions/strings/2116_Check_Parentheses_Valid.py) | Medium        |
+| 3223         | Minimum Length of String After Operations | [Python](solutions/strings/3223_Minimum_Length_String.py) | Medium        | 
 ---
 ## **Linked Lists**
 
