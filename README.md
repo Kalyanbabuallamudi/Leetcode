@@ -46,6 +46,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 2940          | Find Building Where Alice and Bob Can Meet    | [Python](solutions/arrays/2940_Find%20Building%20Where%20Alice%20and%20Bob%20Can%20Meet.py)       | Hard           |
 | 2270         | Number of Ways to Split Array   | [Python](solutions/arrays/2270_number_of_ways_to_split_array.py) | Medium        |
 | 1769         | Minimum Number of Operations to Move All Balls to Each Box | [Python](solutions/arrays/1769_min_operations_balls.py) | Medium        | 
+| 2657         | Find the Prefix Common Array of Two Arrays | [Python](solutions/arrays/2657_Find_Prefix_Common_Array.py) | Medium        | 
 ---
 
 ## **Heap, Greedy, Priority Queue**
