@@ -144,7 +144,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 | Problem # | Title                      | Solution                                                | Difficulty |
 |-----------|----------------------------|--------------------------------------------------------|------------|
 | 2429      | Minimize XOR               | [Python](solutions/XOR/2429_minimize_xor.py)           | Medium     |
-| 2425      | Bitwise XOR of All Pairings | [Python](solutions/XOR/2425_bitwise_xor_pairs.py)      | Medium     |
+| 2425      | Bitwise XOR of All Pairings | [Python](solutions/XOR/2425_Bitwise_XOR_Pairs.py)      | Medium     |
 
 ---
 ### 🌟 **How to Use This Repository**
