@@ -139,12 +139,13 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 2466         | Count Ways To Build Good Strings  | [Python](solutions/Dynamic%20Programming/2466_count_good_strings.py)        | Medium        |
 | 983          | Minimum Cost For Tickets      | [Python](solutions/Dynamic%20Programming/983_minimum_cost_for_tickets.py) | Medium        | DP array tracks min cost for each day of the year |
 ---
-## ✍️ **Minimize XOR**
+## ✍️ **XOR**
 
-|  Problem # |  Title                | Solution                                              |  Difficulty |
-|--------------|------------------------|--------------------------------------------------------|---------------|--------------------------------------------------|
-| 2429         | Minimize XOR            | [Python](solutions/XOR/2429_minimize_xor.py)               | Medium        |
-| 2425         | Bitwise XOR of All Pairings | [Python](solutions/XOR/2425_Bitwise_XOR_Pairs.py) | Medium        |
+| Problem # | Title                      | Solution                                                | Difficulty |
+|-----------|----------------------------|--------------------------------------------------------|------------|
+| 2429      | Minimize XOR               | [Python](solutions/XOR/2429_minimize_xor.py)           | Medium     |
+| 2425      | Bitwise XOR of All Pairings | [Python](solutions/XOR/2425_bitwise_xor_pairs.py)      | Medium     |
+
 ---
 ### 🌟 **How to Use This Repository**
 1. Navigate to the section of interest using the [Table of Contents](#table-of-contents).  
