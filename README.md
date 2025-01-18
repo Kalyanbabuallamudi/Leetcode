@@ -22,6 +22,9 @@ All solutions are licensed under the [MIT License](LICENSE).
 - [Tree, DFS, Modular Arithmetic](#tree-dfs-modular-arithmetic)
 - [Tree, BFS](#tree-bfs)
 - [Dynamic Programming](#dynamic-programming)
+- [Graphs](#graphs)
+- [XOR](#xor)
+- [Bit Manipulation](#bit-manipulation)
 ---
 
 ## **Array**
@@ -138,6 +141,13 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 1639         | Number of Ways to Form a Target String Given a Dictionary | [Python](solutions/Dynamic%20Programming/1639_num_ways_target_string.py) | Hard          |
 | 2466         | Count Ways To Build Good Strings  | [Python](solutions/Dynamic%20Programming/2466_count_good_strings.py)        | Medium        |
 | 983          | Minimum Cost For Tickets      | [Python](solutions/Dynamic%20Programming/983_minimum_cost_for_tickets.py) | Medium        | DP array tracks min cost for each day of the year |
+---
+## ✍️ **Graph**
+
+| **Problem #** | **Title**                                         | **Solution**                                    | **Difficulty** |
+|--------------|-------------------------------------------------|-----------------------------------------------|---------------|-----------------------------------------------------------|
+| 1368         | Minimum Cost to Make at Least One Valid Path in a Grid | [Python](solutions/Graphs/1368_Minimum_Cost_Path.py)  | Hard          |
+
 ---
 ## **XOR**
 
