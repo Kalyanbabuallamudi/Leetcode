@@ -145,8 +145,9 @@ All solutions are licensed under the [MIT License](LICENSE).
 ## ✍️ **Graphs**
 
 | **Problem #** | **Title**                                         | **Solution**                                    | **Difficulty** |
-|--------------|-------------------------------------------------|-----------------------------------------------|---------------|-----------------------------------------------------------|
-| 1368         | Minimum Cost to Make at Least One Valid Path in a Grid | [Python](solutions/Graphs/1368_Minimum_Cost_Path.py)  | Hard          |
+|---------------|---------------------------------------------------|------------------------------------------------|----------------|
+| 1368          | Minimum Cost to Make at Least One Valid Path in a Grid | [Python](solutions/Graphs/1368_Minimum_Cost_Path.py) | Hard           |
+
 ---
 ## **XOR**
 
