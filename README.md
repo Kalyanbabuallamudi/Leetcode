@@ -60,6 +60,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 1792           | Maximum Average Pass Ratio | [Python](solutions/Heap%20Greedy%20Priority%20Queue/1792_max_average_pass_ratio.py) | Medium         |
 | 2182           | Construct String With Repeat Limit  | [Python](solutions/Heap%20Greedy%20Priority%20Queue/2182_construct_string_with_repeat_limit.py) | Medium         |
 | 1422         | Maximum Score After Splitting a String | [Python](solutions/Heap%20Greedy%20Priority%20Queue/1422_maximum_score.py)      | Easy          | Split the string at each position, calculate score |
+| 407          | Trapping Rain Water II       | [Python](solutions/Heap%20Greedy%20Priority%20Queue/407_Trapping_Rain_Water_II.py) | Hard          |
 ---
 
 ## **Binary Tree, BFS, Queue**
