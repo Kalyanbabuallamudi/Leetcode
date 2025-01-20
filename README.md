@@ -170,7 +170,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 
 | **Problem #** | **Title**                                   | **Solution**                                     | 🚦 Difficulty | 📝 Notes                                             |
 |--------------|-------------------------------------------|------------------------------------------------|---------------|-----------------------------------------------------|
-| 2661         | First Completely Painted Row or Column     | [Python](solutions/2661_First_Complete_Index.py) | Medium        | Tracks row/column painting progress using counters. |
+| 2661         | First Completely Painted Row or Column     | [Python](solutions/Matrix/2661_First_Complete_Index.py) | Medium        | Tracks row/column painting progress using counters. |
 
 ---
 ### 🌟 **How to Use This Repository**
