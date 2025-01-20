@@ -25,6 +25,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 - [Graphs](#graphs)
 - [XOR](#xor)
 - [Bit Manipulation](#bit-manipulation)
+- [Matrix](#matrix)
 ---
 
 ## **Array**
@@ -163,6 +164,13 @@ All solutions are licensed under the [MIT License](LICENSE).
 |  **Problem #**  |  **Title**                 |  **Solution**                                            |  **Difficulty**  |
 |------------------|----------------------------|---------------------------------------------------------|-------------------|
 | 2683            | Neighboring Bitwise XOR    | [Python](solutions/Bit%20Manipulation/2683_Neighboring_XOR.py) | Medium            |
+
+---
+##  **Matrix**
+
+| **Problem #** | **Title**                                   | **Solution**                                     | 🚦 Difficulty | 📝 Notes                                             |
+|--------------|-------------------------------------------|------------------------------------------------|---------------|-----------------------------------------------------|
+| 2661         | First Completely Painted Row or Column     | [Python](solutions/2661_First_Complete_Index.py) | Medium        | Tracks row/column painting progress using counters. |
 
 ---
 ### 🌟 **How to Use This Repository**
