@@ -169,11 +169,11 @@ All solutions are licensed under the [MIT License](LICENSE).
 ---
 ##  **Matrix**
 
-| **Problem #** | **Title**                                   | **Solution**                                     | 🚦 Difficulty | 📝 Notes                                             |
-|--------------|-------------------------------------------|------------------------------------------------|---------------|-----------------------------------------------------|
-| 2661         | First Completely Painted Row or Column     | [Python](solutions/Matrix/2661_First_Complete_Index.py) | Medium        | Tracks row/column painting progress using counters. |
-| 1765         | Map of Highest Peak    | [Python](solutions/Matrix/1765_Map_of_Highest_Peak.py) | Medium        |
----
+| **Problem #** | **Title**                                   | **Solution**                                     |  **Difficulty** |
+|--------------|-------------------------------------------|------------------------------------------------|---------------|
+| 2661         | First Completely Painted Row or Column     | [Python](solutions/Matrix/2661_First_Complete_Index.py) | Medium        |
+| 1765         | Map of Highest Peak                       | [Python](solutions/Matrix/1765_Map_of_Highest_Peak.py) | Medium        |
+
 ### 🌟 **How to Use This Repository**
 1. Navigate to the section of interest using the [Table of Contents](#table-of-contents).  
 2. Click the solution link to view the implementation details.  
