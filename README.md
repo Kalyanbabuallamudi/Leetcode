@@ -150,7 +150,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 | **Problem #** | **Title**                                         | **Solution**                                    | **Difficulty** |
 |---------------|---------------------------------------------------|------------------------------------------------|----------------|
 | 1368          | Minimum Cost to Make at Least One Valid Path in a Grid | [Python](solutions/Graphs/1368_Minimum_Cost_Path.py) | Hard           |
-
+| 802          | Find Eventual Safe States      | [Python](solutions/Graphs/802_Find_Eventual_Safe_States.py) | Medium        | 
 ---
 ## **XOR**
 
