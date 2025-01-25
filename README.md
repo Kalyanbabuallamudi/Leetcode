@@ -52,7 +52,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 1769         | Minimum Number of Operations to Move All Balls to Each Box | [Python](solutions/arrays/1769_min_operations_balls.py) | Medium        | 
 | 2657         | Find the Prefix Common Array of Two Arrays | [Python](solutions/arrays/2657_Find_Prefix_Common_Array.py) | Medium        | 
 | 2017         | Grid Game      | [Python](solutions/arrays/2017_Grid_Game.py)        | Medium        |
-| 2948         | Make Lexicographically Smallest Array by Swapping Elements | [Python](solutions/2948_lexicographically_smallest_array.py) | Medium        |
+| 2948         | Make Lexicographically Smallest Array by Swapping Elements | [Python](solutions/arrays/2948_lexicographically_smallest_array.py) | Medium        |
 ---
 
 ## **Heap, Greedy, Priority Queue**
