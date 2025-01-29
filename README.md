@@ -155,6 +155,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 802          | Find Eventual Safe States      | [Python](solutions/Graphs/802_Find_Eventual_Safe_States.py) | Medium        | 
 | 2127         | Maximum Employees to Be Invited to a Meeting      | [Python](solutions/Graphs/2127_maximum_invitations.py) | Hard          |
 | 1462         | Course Schedule IV       | [Python](solutions/Graphs/1462_course_schedule_iv.py) | Medium        |
+| 684          | Redundant Connection   | [Python](solutions/Graphs/684_redundant_connection.py) | Medium        |
 ---
 ## **XOR**
 
