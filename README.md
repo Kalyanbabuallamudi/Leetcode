@@ -157,6 +157,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 1462         | Course Schedule IV       | [Python](solutions/Graphs/1462_course_schedule_iv.py) | Medium        |
 | 684          | Redundant Connection   | [Python](solutions/Graphs/684_redundant_connection.py) | Medium        |
 | 2493         | Divide Nodes Into the Maximum Number of Groups | [Python](solutions/Graphs/2493_divide_nodes_groups.py) | Hard          |
+| 827          | Making A Large Island     | [Python](solutions/Graphs/827_making_large_island.py) | Hard          |
 ---
 ## **XOR**
 
