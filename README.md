@@ -53,6 +53,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 2657         | Find the Prefix Common Array of Two Arrays | [Python](solutions/arrays/2657_Find_Prefix_Common_Array.py) | Medium        | 
 | 2017         | Grid Game      | [Python](solutions/arrays/2017_Grid_Game.py)        | Medium        |
 | 2948         | Make Lexicographically Smallest Array by Swapping Elements | [Python](solutions/arrays/2948_lexicographically_smallest_array.py) | Medium        |
+| 3151         | Special Array I     | [Python](solutions/arrays/3151_special_array_i.py)    | Easy          |
 ---
 
 ## **Heap, Greedy, Priority Queue**
