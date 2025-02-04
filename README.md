@@ -56,6 +56,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 3151         | Special Array I     | [Python](solutions/arrays/3151_special_array_i.py)    | Easy          |
 | 1752         | Check if Array Is Sorted and Rotated   | [Python](solutions/arrays/1752_check_sorted_rotated.py) | Easy          |
 | 3105         | Longest Strictly Increasing or Strictly Decreasing Subarray | [Python](solutions/arrays/3105_longest_monotonic_subarray.py) | Easy          |
+| 1800         | Maximum Ascending Subarray Sum | [Python](solutions/arrays/1800_max_ascending_sum.py)   | Easy          |
 ---
 
 ## **Heap, Greedy, Priority Queue**
