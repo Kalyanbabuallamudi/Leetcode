@@ -187,6 +187,13 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 1765         | Map of Highest Peak                       | [Python](solutions/Matrix/1765_Map_of_Highest_Peak.py) | Medium        |
 | 1267         | Count Servers that Communicate | [Python](solutions/Matrix/1267_Count_Servers.py)      | Medium        |
 ---
+## ✍️ **Hashmap, Combinatorics**
+
+| **Problem #** | **Title**                 | **Solution**                                      | **Difficulty** |
+|---------------|---------------------------|--------------------------------------------------|---------------|
+| 1726          | Tuple with Same Product   | [Python](solutions/Hash%20map/1726_tuple_same_product.py) | Medium        |
+
+---
 
 ### 🌟 **How to Use This Repository**
 1. Navigate to the section of interest using the [Table of Contents](#table-of-contents).  
