@@ -26,6 +26,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 - [XOR](#xor)
 - [Bit Manipulation](#bit-manipulation)
 - [Matrix](#matrix)
+- [Hash Map](#hash-map)
 ---
 
 ## **Array**
@@ -192,7 +193,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 | **Problem #** | **Title**                 | **Solution**                                      | **Difficulty** |
 |---------------|---------------------------|--------------------------------------------------|---------------|
 | 1726          | Tuple with Same Product   | [Python](solutions/Hash%20map/1726_tuple_same_product.py) | Medium        |
-
+| 3160         | Find the Number of Distinct Colors Among the Balls | [Python](solutions/Hash%20map/3160_distinct_colors.py)    | Medium        |
 ---
 
 ### 🌟 **How to Use This Repository**
