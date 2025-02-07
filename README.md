@@ -188,7 +188,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 1765         | Map of Highest Peak                       | [Python](solutions/Matrix/1765_Map_of_Highest_Peak.py) | Medium        |
 | 1267         | Count Servers that Communicate | [Python](solutions/Matrix/1267_Count_Servers.py)      | Medium        |
 ---
-## ✍️ **Hashmap, Combinatorics**
+## **Hash Map
 
 | **Problem #** | **Title**                 | **Solution**                                      | **Difficulty** |
 |---------------|---------------------------|--------------------------------------------------|---------------|
