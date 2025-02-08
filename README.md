@@ -194,6 +194,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 |---------------|---------------------------|--------------------------------------------------|---------------|
 | 1726          | Tuple with Same Product   | [Python](solutions/Hash%20map/1726_tuple_same_product.py) | Medium        |
 | 3160         | Find the Number of Distinct Colors Among the Balls | [Python](solutions/Hash%20map/3160_distinct_colors.py)    | Medium        |
+| 2349         | Design a Number Container System | [Python](solutions/Hash%20map/2349_design_number_container_system.py) | Medium        |
 ---
 
 ### 🌟 **How to Use This Repository**
