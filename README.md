@@ -27,6 +27,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 - [Bit Manipulation](#bit-manipulation)
 - [Matrix](#matrix)
 - [Hash Map](#hash-map)
+- [Stack](#stack)
 ---
 
 ## **Array**
