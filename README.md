@@ -197,6 +197,13 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 2349         | Design a Number Container System | [Python](solutions/Hash%20map/2349_design_number_container_system.py) | Medium        |
 | 2364         | Count Number of Bad Pairs   | [Python](solutions/Hash%20map/2364_count_bad_pairs.py)   | Medium        |
 ---
+##  **Stack**
+
+| **Problem #** | **Title**           | **Solution**                                |  **Difficulty** |  
+|--------------|-------------------|------------------------------------------|---------------|
+| 3174         | Clear Digits      | [Python](solutions/Stack/3174_clear_digits.py) | Easy          | 
+
+---
 
 ### 🌟 **How to Use This Repository**
 1. Navigate to the section of interest using the [Table of Contents](#table-of-contents).  
