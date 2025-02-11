@@ -104,6 +104,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 2116         | Check if a Parentheses String Can Be Valid | [Python](solutions/strings/2116_Check_Parentheses_Valid.py) | Medium        |
 | 3223         | Minimum Length of String After Operations | [Python](solutions/strings/3223_Minimum_Length_String.py) | Medium        | 
 | 1790         | Check if One String Swap Can Make Strings Equal | [Python](solutions/strings/1790_one_string_swap.py) | Easy          |
+| 1910         | Remove All Occurrences of a Substring | [Python](solutions/strings/1910_remove_occurrences_of_substring.py) | Medium        |
 ---
 ## **Linked Lists**
 
