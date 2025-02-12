@@ -198,6 +198,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 3160         | Find the Number of Distinct Colors Among the Balls | [Python](solutions/Hash%20map/3160_distinct_colors.py)    | Medium        |
 | 2349         | Design a Number Container System | [Python](solutions/Hash%20map/2349_design_number_container_system.py) | Medium        |
 | 2364         | Count Number of Bad Pairs   | [Python](solutions/Hash%20map/2364_count_bad_pairs.py)   | Medium        |
+| 2342         | Max Sum of a Pair With Equal Sum of Digits | [Python](solutions/Hash%20map/2342_max_sum_pair_digits.py) | Medium         |
 ---
 ##  **Stack**
 
