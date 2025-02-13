@@ -70,6 +70,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 2182           | Construct String With Repeat Limit  | [Python](solutions/Heap%20Greedy%20Priority%20Queue/2182_construct_string_with_repeat_limit.py) | Medium         |
 | 1422         | Maximum Score After Splitting a String | [Python](solutions/Heap%20Greedy%20Priority%20Queue/1422_maximum_score.py)      | Easy          | Split the string at each position, calculate score |
 | 407          | Trapping Rain Water II       | [Python](solutions/Heap%20Greedy%20Priority%20Queue/407_Trapping_Rain_Water_II.py) | Hard          |
+| 3066         | Minimum Operations to Exceed Threshold Value II | [Python](solutions/Heap%20Greedy%20Priority%20Queue/3066_min_operations_threshold.py) | Medium         |
 ---
 
 ## **Binary Tree, BFS, Queue**
