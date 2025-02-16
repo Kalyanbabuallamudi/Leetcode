@@ -215,7 +215,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 
 | **Problem #** | **Title**                                     | **Solution**                                          | **Difficulty** |
 |---------------|-----------------------------------------------|------------------------------------------------------|----------------|
-| 1718          | Construct the Lexicographically Largest Valid Sequence | [Python](solutions/1718_largest_valid_sequence.py)  | Medium         |
+| 1718          | Construct the Lexicographically Largest Valid Sequence | [Python](solutions/Backtracking/1718_largest_valid_sequence.py)  | Medium         |
 
 ---
 
