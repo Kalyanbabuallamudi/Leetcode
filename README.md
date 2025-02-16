@@ -28,6 +28,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 - [Matrix](#matrix)
 - [Hash Map](#hash-map)
 - [Stack](#stack)
+- [Backtracking](#backtracking)
 ---
 
 ## **Array**
@@ -208,6 +209,13 @@ All solutions are licensed under the [MIT License](LICENSE).
 | **Problem #** | **Title**           | **Solution**                                |  **Difficulty** |  
 |--------------|-------------------|------------------------------------------|---------------|
 | 3174         | Clear Digits      | [Python](solutions/Stack/3174_clear_digits.py) | Easy          | 
+
+---
+## **Backtracking**
+
+| **Problem #** | **Title**                                     | **Solution**                                          | **Difficulty** |
+|---------------|-----------------------------------------------|------------------------------------------------------|----------------|
+| 1718          | Construct the Lexicographically Largest Valid Sequence | [Python](solutions/1718_largest_valid_sequence.py)  | Medium         |
 
 ---
 
