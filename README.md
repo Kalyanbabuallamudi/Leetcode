@@ -216,7 +216,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 | **Problem #** | **Title**                                     | **Solution**                                          | **Difficulty** |
 |---------------|-----------------------------------------------|------------------------------------------------------|----------------|
 | 1718          | Construct the Lexicographically Largest Valid Sequence | [Python](solutions/Backtracking/1718_largest_valid_sequence.py)  | Medium         |
-
+| 1079         | Letter Tile Possibilities           | [Python](solutions/Backtracking/1079_letter_tile_possibilities.py) | Medium        |
 ---
 
 ### 🌟 **How to Use This Repository**
