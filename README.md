@@ -74,7 +74,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 1422         | Maximum Score After Splitting a String | [Python](solutions/Heap%20Greedy%20Priority%20Queue/1422_maximum_score.py)      | Easy          | Split the string at each position, calculate score |
 | 407          | Trapping Rain Water II       | [Python](solutions/Heap%20Greedy%20Priority%20Queue/407_Trapping_Rain_Water_II.py) | Hard          |
 | 3066         | Minimum Operations to Exceed Threshold Value II | [Python](solutions/Heap%20Greedy%20Priority%20Queue/3066_min_operations_threshold.py) | Medium         |
-| 2375         | Construct Smallest Number From DI String | [Python](solutions/Heap%20Greedy%20Priority%20Queue/2375_construct_smallest_number_from_di_string.py | Medium        |
+
 ---
 
 ## **Binary Tree, BFS, Queue**
