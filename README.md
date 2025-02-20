@@ -220,6 +220,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 1718          | Construct the Lexicographically Largest Valid Sequence | [Python](solutions/Backtracking/1718_largest_valid_sequence.py)  | Medium         |
 | 1079         | Letter Tile Possibilities           | [Python](solutions/Backtracking/1079_letter_tile_possibilities.py) | Medium        |
 | 1415         | The k-th Lexicographical String of All Happy Strings of Length n | [Python](solutions/Backtracking/1415_get_happy_string.py)  | Medium        |
+| 1980         | Find Unique Binary String           | [Python](solutions/Backtracking/1980_find_unique_binary_string.py) | Medium        |
 ---
 
 ### 🌟 **How to Use This Repository**
