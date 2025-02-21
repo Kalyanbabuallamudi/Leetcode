@@ -142,6 +142,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 2872           | Reverse Odd Levels of Binary Tree       | [Python](solutions/Tree,%20DFS,%20Modular%20Arithmetic/2872_max_k_divisible_components.py)  | Easy          |
 | 3203         | Find Minimum Diameter After Merging Two Trees     | [Python](solutions/Tree,%20DFS,%20Modular%20Arithmetic/3203_min_diameter_merge_trees.py)  | Hard          |
 | 2658         | Maximum Number of Fish in a Grid | [Python](solutions/Tree,%20DFS,%20Modular%20Arithmetic/2658_max_fish_grid.py)   | Medium        |
+| 1261         | Find Elements in a Contaminated Tree | [Python](solutions/Tree,%20DFS,%20Modular%20Arithmetic/1261_find_elements_contaminated_tree.py) | Medium        |
 ---
 ## **Tree, BFS**
 
