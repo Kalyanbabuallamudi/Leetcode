@@ -149,7 +149,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 | **Problem #** |  **Title**                                | **Solution**                                           | **Difficulty** |
 |--------------|----------------------------------------|------------------------------------------------------|---------------|
 | 515          | Find Largest Value in Each Tree Row   | [Python](solutions/Tree%20BFS/515_largest_value_tree_row.py)    | Medium        |
-
+| 1028         | Recover a Tree From Preorder Traversal | [Python](solutions/Tree%20BFS/1028_recover_tree_preorder.py)    | Hard          |
 ---
 ## **Dynamic Programming**
 
