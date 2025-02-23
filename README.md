@@ -150,6 +150,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 |--------------|----------------------------------------|------------------------------------------------------|---------------|
 | 515          | Find Largest Value in Each Tree Row   | [Python](solutions/Tree%20BFS/515_largest_value_tree_row.py)    | Medium        |
 | 1028         | Recover a Tree From Preorder Traversal | [Python](solutions/Tree%20BFS/1028_recover_tree_preorder.py)    | Hard          |
+| 889          | Construct Binary Tree from Preorder and Postorder Traversal | [Python](solutions/Tree%20BFS/889_construct_tree_pre_post.py) | Medium        |
 ---
 ## **Dynamic Programming**
 
