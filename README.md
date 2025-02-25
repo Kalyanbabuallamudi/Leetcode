@@ -29,6 +29,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 - [Hash Map](#hash-map)
 - [Stack](#stack)
 - [Backtracking](#backtracking)
+- [Prefix Sum](#prefix-sum)
 ---
 
 ## **Array**
@@ -224,6 +225,13 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 1079         | Letter Tile Possibilities           | [Python](solutions/Backtracking/1079_letter_tile_possibilities.py) | Medium        |
 | 1415         | The k-th Lexicographical String of All Happy Strings of Length n | [Python](solutions/Backtracking/1415_get_happy_string.py)  | Medium        |
 | 1980         | Find Unique Binary String           | [Python](solutions/Backtracking/1980_find_unique_binary_string.py) | Medium        |
+---
+## **Prefix Sum**
+
+| **Problem #** | **Title**                           | **Solution**                                            | **Difficulty** |
+|--------------|-----------------------------------|-----------------------------------------------------|---------------|
+| 1524         | Number of Sub-arrays With Odd Sum | [Python](solutions/Prefix%20Sum/1524_num_of_subarrays_with_odd_sum.py) | Medium        |
+
 ---
 
 ### 🌟 **How to Use This Repository**
