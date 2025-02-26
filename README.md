@@ -164,6 +164,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 1639         | Number of Ways to Form a Target String Given a Dictionary | [Python](solutions/Dynamic%20Programming/1639_num_ways_target_string.py) | Hard          |
 | 2466         | Count Ways To Build Good Strings  | [Python](solutions/Dynamic%20Programming/2466_count_good_strings.py)        | Medium        |
 | 983          | Minimum Cost For Tickets      | [Python](solutions/Dynamic%20Programming/983_minimum_cost_for_tickets.py) | Medium        | DP array tracks min cost for each day of the year |
+| 1749         | Maximum Absolute Sum of Any Subarray        | [Python](solutions/Dynamic%20Programming/1749_max_absolute_sum_subarray.py) | Medium        |
 ---
 ## **Graphs**
 
