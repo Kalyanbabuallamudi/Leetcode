@@ -166,6 +166,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 983          | Minimum Cost For Tickets      | [Python](solutions/Dynamic%20Programming/983_minimum_cost_for_tickets.py) | Medium        | DP array tracks min cost for each day of the year |
 | 1749         | Maximum Absolute Sum of Any Subarray        | [Python](solutions/Dynamic%20Programming/1749_max_absolute_sum_subarray.py) | Medium        |
 | 873          | Length of Longest Fibonacci Subsequence   | [Python](solutions/Dynamic%20Programming/873_len_longest_fib_subseq.py) | Medium        |
+| 1092         | Shortest Common Supersequence    | [Python](solutions/Dynamic%20Programming/1092_shortest_common_superseq.py) | Hard          | 
 ---
 ## **Graphs**
 
