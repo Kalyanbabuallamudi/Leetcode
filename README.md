@@ -64,6 +64,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 1352         | Product of the Last K Numbers | [Python](solutions/arrays/1352_product_last_k.py)     | Medium         |
 | 2698         | Find the Punishment Number of an Integer       | [Python](solutions/arrays/2698_punishment_number.py) | Medium        |
 | 2460         | Apply Operations to an Array     | [Python](solutions/arrays/2460_apply_operations_array.py) | Easy          | 
+| 2570         | Merge Two 2D Arrays by Summing Values   | [Python](solutions/arrays/2570_merge_two_2d_arrays.py)   | Easy          |
 ---
 
 ## **Heap, Greedy, Priority Queue**
