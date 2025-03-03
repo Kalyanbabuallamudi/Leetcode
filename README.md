@@ -65,6 +65,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 2698         | Find the Punishment Number of an Integer       | [Python](solutions/arrays/2698_punishment_number.py) | Medium        |
 | 2460         | Apply Operations to an Array     | [Python](solutions/arrays/2460_apply_operations_array.py) | Easy          | 
 | 2570         | Merge Two 2D Arrays by Summing Values   | [Python](solutions/arrays/2570_merge_two_2d_arrays.py)   | Easy          |
+| 2161         | Partition Array According to Given Pivot  | [Python](solutions/arrays/2161_partition_array.py)     | Medium        |
 ---
 
 ## **Heap, Greedy, Priority Queue**
