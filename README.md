@@ -30,6 +30,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 - [Stack](#stack)
 - [Backtracking](#backtracking)
 - [Prefix Sum](#prefix-sum)
+- [Math](#math)
 ---
 
 ## **Array**
@@ -237,6 +238,13 @@ All solutions are licensed under the [MIT License](LICENSE).
 | **Problem #** | **Title**                           | **Solution**                                            | **Difficulty** |
 |--------------|-----------------------------------|-----------------------------------------------------|---------------|
 | 1524         | Number of Sub-arrays With Odd Sum | [Python](solutions/Prefix%20Sum/1524_num_of_subarrays_with_odd_sum.py) | Medium        |
+
+---
+## Math
+
+| Problem # | Title                                  | Solution                                         | Difficulty |
+|-----------|----------------------------------------|-------------------------------------------------|------------|
+| 1780      | Check if Number is a Sum of Powers of Three | [Python](solutions/Math/1780_check_powers_of_three.py) | Medium     |
 
 ---
 
