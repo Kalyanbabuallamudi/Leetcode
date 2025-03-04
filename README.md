@@ -242,7 +242,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 ---
 ## Math
 
-| Problem # | Title                                  | Solution                                         | Difficulty |
+| **Problem** | **Title**                                  | **Solution**                                         | **Difficulty** |
 |-----------|----------------------------------------|-------------------------------------------------|------------|
 | 1780      | Check if Number is a Sum of Powers of Three | [Python](solutions/Math/1780_check_powers_of_three.py) | Medium     |
 
