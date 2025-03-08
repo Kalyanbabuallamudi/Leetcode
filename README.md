@@ -130,7 +130,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 | **Problem #** |  **Title**                     |  **Solution**                                      |  Difficulty |
 |--------------|-----------------------------|------------------------------------------------|---------------|
 | 1014         | Best Sightseeing Pair       | [Python](solutions/Sliding%20Window/1014_best_sightseeing_pair.py) | Medium        |
-
+| 2379         | Minimum Recolors to Get K Consecutive Black Blocks | [Python](solutions/Sliding%20Window/2379_minimum_recolors_to_get_k_consecutive_black_blocks.py) | Easy          |
 ---
 ## **Binary Search, Greedy**
 
@@ -239,7 +239,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 | **Problem #** | **Title**                           | **Solution**                                            | **Difficulty** |
 |--------------|-----------------------------------|-----------------------------------------------------|---------------|
 | 1524         | Number of Sub-arrays With Odd Sum | [Python](solutions/Prefix%20Sum/1524_num_of_subarrays_with_odd_sum.py) | Medium        |
-
+| 2523         | Closest Prime Numbers in Range    | [Python](solutions/Prefix%20Sum/2523_closest_primes_in_range.py) | Medium        |
 ---
 ## Math
 
