@@ -132,7 +132,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 1014         | Best Sightseeing Pair       | [Python](solutions/Sliding%20Window/1014_best_sightseeing_pair.py) | Medium        |
 | 2379         | Minimum Recolors to Get K Consecutive Black Blocks | [Python](solutions/Sliding%20Window/2379_minimum_recolors_to_get_k_consecutive_black_blocks.py) | Easy          |
 | 3208         | Alternating Groups II            | [Python](solutions/Sliding%20Window/3208_alternating_groups_ii.py) | Medium         | Handles circular arrays and checks k-groups |
-
+| 3306         | Count of Substrings Containing Every Vowel and K Consonants II | [Python](solutions/Sliding%20Window/3306_count_of_substrings_containing_every_vowel_and_k_consonants_ii.py) | Medium         |
 ---
 ## **Binary Search, Greedy**
 
