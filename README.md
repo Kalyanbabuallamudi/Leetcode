@@ -68,6 +68,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 2570         | Merge Two 2D Arrays by Summing Values   | [Python](solutions/arrays/2570_merge_two_2d_arrays.py)   | Easy          |
 | 2161         | Partition Array According to Given Pivot  | [Python](solutions/arrays/2161_partition_array.py)     | Medium        |
 | 2965         | Find Missing and Repeated Values    | [Python](solutions/arrays/2965_find_missing_and_repeated_values.py) | Easy          |
+| 2529         | Maximum Count of Positive Integer and Negative Integer | [Python](solutions/arrays/2529_maximum_count_of_positive_integer_and_negative_integer.py) | Easy          |
 ---
 
 ## **Heap, Greedy, Priority Queue**
