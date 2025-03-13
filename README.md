@@ -18,7 +18,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 - [Other Topics](#other-topics)
 - [Heap, Greedy, Priority Queue](#heap-greedy-priority-queue)
 - [Binary Tree, BFS, Queue](#binary-tree-bfs-queue)
-- [Binary Search, Greedy](#binary-search-greedy)
+- [Binary Search](#binary-search)
 - [Tree, DFS, Modular Arithmetic](#tree-dfs-modular-arithmetic)
 - [Tree, BFS](#tree-bfs)
 - [Dynamic Programming](#dynamic-programming)
@@ -136,13 +136,13 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 3306         | Count of Substrings Containing Every Vowel and K Consonants II | [Python](solutions/Sliding%20Window/3306_count_of_substrings_containing_every_vowel_and_k_consonants_ii.py) | Medium         |
 | 1358         | Number of Substrings Containing All Three Characters | [Python](solutions/Sliding%20Window/1358_number_of_substrings_containing_all_three_characters.py) | Medium         |
 ---
-## **Binary Search, Greedy**
+## **Binary Search**
 
 | **Problem #** | **Title**                               | **Solution**                                         | **Difficulty** |
 |----------------|------------------------------------------|-----------------------------------------------------|----------------|
 | 1760           | Minimum Limit of Balls in a Bag         | [Python](solutions/BST/1760_minimum_balls_in_bag.py)  | Medium         |
 | 2054           | Two Best Non-Overlapping Events          | [Python](solutions/Greedy%20Binary%20Search/2054_best_nonoverlapping_events.py) | Medium         |
-
+| 3356         | Zero Array Transformation II | [Python](solutions/Binary%20Search/3356_zero_array_transformation_ii.py) | Medium        |
 ---
 
 ## **Tree, DFS, Modular Arithmetic**
