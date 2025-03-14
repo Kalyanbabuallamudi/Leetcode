@@ -69,6 +69,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 2161         | Partition Array According to Given Pivot  | [Python](solutions/arrays/2161_partition_array.py)     | Medium        |
 | 2965         | Find Missing and Repeated Values    | [Python](solutions/arrays/2965_find_missing_and_repeated_values.py) | Easy          |
 | 2529         | Maximum Count of Positive Integer and Negative Integer | [Python](solutions/arrays/2529_maximum_count_of_positive_integer_and_negative_integer.py) | Easy          |
+| 2226         | Maximum Candies Allocated to K Children | [Python](solutions/arrays/2226_maximum_candies_k_children.py) | Medium        |
 ---
 
 ## **Heap, Greedy, Priority Queue**
