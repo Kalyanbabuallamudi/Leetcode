@@ -8,4 +8,5 @@ class Solution:
                 chosen_sum += i
                 count += 1
         return count
+    
 #This code is Contributed by Kalyan Babu Allamudi
