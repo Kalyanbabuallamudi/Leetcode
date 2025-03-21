@@ -71,6 +71,8 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 2529         | Maximum Count of Positive Integer and Negative Integer | [Python](solutions/arrays/2529_maximum_count_of_positive_integer_and_negative_integer.py) | Easy          |
 | 2226         | Maximum Candies Allocated to K Children | [Python](solutions/arrays/2226_maximum_candies_k_children.py) | Medium        |
 | 2560         | 2560. House Robber IV | [Python](solutions/arrays/2560_House_Robber_IV.py) | Medium        |
+| 2115       | 2115. Recipes from Given_Supplies | [Python](solutions/arrays/2115_Recipes_from%20_Given_Supplies) | Medium        | 
+
 ---
 
 ## **Heap, Greedy, Priority Queue**
