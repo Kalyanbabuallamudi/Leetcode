@@ -158,6 +158,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 2658         | Maximum Number of Fish in a Grid | [Python](solutions/Tree,%20DFS,%20Modular%20Arithmetic/2658_max_fish_grid.py)   | Medium        |
 | 1261         | Find Elements in a Contaminated Tree | [Python](solutions/Tree,%20DFS,%20Modular%20Arithmetic/1261_find_elements_contaminated_tree.py) | Medium        |
 | 2467         | Most Profitable Path in a Tree  | [Python](solutions/Tree,%20DFS,%20Modular%20Arithmetic/2467_most_profitable_path.py)   | Medium        |
+| 2685       | Count the Number of Complete Components| [Python](solutions/Tree,%20DFS,%20Modular%20Arithmetic/2685_Count_the_Number_of_Complete_Components.py)   | Medium        |
 ---
 ## **Tree, BFS**
 
