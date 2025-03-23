@@ -181,6 +181,8 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 1749         | Maximum Absolute Sum of Any Subarray        | [Python](solutions/Dynamic%20Programming/1749_max_absolute_sum_subarray.py) | Medium        |
 | 873          | Length of Longest Fibonacci Subsequence   | [Python](solutions/Dynamic%20Programming/873_len_longest_fib_subseq.py) | Medium        |
 | 1092         | Shortest Common Supersequence    | [Python](solutions/Dynamic%20Programming/1092_shortest_common_superseq.py) | Hard          | 
+| 1976         | Number of Ways to Arrive at Destination   | [Python](solutions/Dynamic%20Programming/1976_Number_of_Ways_to_Arrive_at_Destination.py) | Medium          | 
+
 ---
 ## **Graphs**
 
