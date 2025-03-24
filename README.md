@@ -72,7 +72,9 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 2226         | Maximum Candies Allocated to K Children | [Python](solutions/arrays/2226_maximum_candies_k_children.py) | Medium        |
 | 2560         | 2560. House Robber IV | [Python](solutions/arrays/2560_House_Robber_IV.py) | Medium        |
 | 2115       | 2115. Recipes from Given_Supplies | [Python](solutions/arrays/2115_Recipes_from%20_Given_Supplies) | Medium        | 
+| 3169       | Count Days Without Meetings | [Python](solutions/arrays/3169_Count_Days_Without_Meetings.py) | Medium        | 
 
+3169 Count Days Without Meetings
 ---
 
 ## **Heap, Greedy, Priority Queue**
