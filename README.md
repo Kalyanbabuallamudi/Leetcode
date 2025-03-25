@@ -73,8 +73,8 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 2560         | 2560. House Robber IV | [Python](solutions/arrays/2560_House_Robber_IV.py) | Medium        |
 | 2115       | 2115. Recipes from Given_Supplies | [Python](solutions/arrays/2115_Recipes_from%20_Given_Supplies) | Medium        | 
 | 3169       | Count Days Without Meetings | [Python](solutions/arrays/3169_Count_Days_Without_Meetings.py) | Medium        | 
+| 3394       | Check if Grid can be Cut into Sections | [Python](solutions/arrays/3394_Check_if_Grid_can_be_Cut_into_Sections.py) | Medium        | 
 
-3169 Count Days Without Meetings
 ---
 
 ## **Heap, Greedy, Priority Queue**
