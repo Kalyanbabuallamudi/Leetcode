@@ -74,6 +74,10 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 2115       | 2115. Recipes from Given_Supplies | [Python](solutions/arrays/2115_Recipes_from%20_Given_Supplies) | Medium        | 
 | 3169       | Count Days Without Meetings | [Python](solutions/arrays/3169_Count_Days_Without_Meetings.py) | Medium        | 
 | 3394       | Check if Grid can be Cut into Sections | [Python](solutions/arrays/3394_Check_if_Grid_can_be_Cut_into_Sections.py) | Medium        | 
+| 2033       | Minimum Operations to Make a Uni-Value Grid| [Python](solutions/arrays/2033_Minimum_Operations_to_Make_a_Uni-Value_Grid.py) | Medium        | 
+
+
+
 
 ---
 
