@@ -76,8 +76,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 3394       | Check if Grid can be Cut into Sections | [Python](solutions/arrays/3394_Check_if_Grid_can_be_Cut_into_Sections.py) | Medium        | 
 | 2033       | Minimum Operations to Make a Uni-Value Grid| [Python](solutions/arrays/2033_Minimum_Operations_to_Make_a_Uni-Value_Grid.py) | Medium        | 
 | 2780       | 2780 Minimum Index of a Valid Split| [Python](solutions/arrays/2780_Minimum_Index_of_a%20_Valid_Split.py) | Medium        | 
-
-
+| 2818         | Apply Operations to Maximize Score  | [Python](solutions/arrays/2818_apply_operations_max_score.py) | Hard          |
 
 
 
