@@ -191,7 +191,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 873          | Length of Longest Fibonacci Subsequence   | [Python](solutions/Dynamic%20Programming/873_len_longest_fib_subseq.py) | Medium        |
 | 1092         | Shortest Common Supersequence    | [Python](solutions/Dynamic%20Programming/1092_shortest_common_superseq.py) | Hard          | 
 | 1976         | Number of Ways to Arrive at Destination   | [Python](solutions/Dynamic%20Programming/1976_Number_of_Ways_to_Arrive_at_Destination.py) | Medium          | 
-
+| 2140        | Solving Questions With Brainpower  | [Python](solutions/Dynamic%20Programming/2140_Solving_Questions_With_Brainpower.py) | Medium          | 
 ---
 ## **Graphs**
 
