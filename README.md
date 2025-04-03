@@ -78,7 +78,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 2780       | 2780 Minimum Index of a Valid Split| [Python](solutions/arrays/2780_Minimum_Index_of_a%20_Valid_Split.py) | Medium        | 
 | 2818         | Apply Operations to Maximize Score  | [Python](solutions/arrays/2818_apply_operations_max_score.py) | Hard          |
 | 2873         | Maximum Value of an Ordered Triplet I      | [Python](solutions/arrays/2873_max_value_ordered_triplet_I.py)   | Easy          | 
-
+| 2874         | Maximum Value of an Ordered Triplet II     | [Python](solutions/arrays/2874_max_value_ordered_triplet_II.py)  | Medium        |
 ---
 
 ## **Heap, Greedy, Priority Queue**
