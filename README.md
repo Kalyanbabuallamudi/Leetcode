@@ -102,6 +102,8 @@ All solutions are licensed under the [MIT License](LICENSE).
 |----------------|-----------------------------------|--------------------------------------------------|----------------|
 | 2415           | Reverse Odd Levels of Binary Tree | [Python](solutions/Binary%20Tree,%20BFS,%20Queue/2415_reverse_odd_levels_of_binary_tree.py) | Medium         |
 | 2471         | Minimum Number of Operations to Sort a Binary Tree by Level | [Python](solutions/Binary%20Tree,%20BFS,%20Queue/2471_min_operations_sort_tree.py) | Medium        |
+| 1123         | Lowest Common Ancestor of Deepest Leaves   | [Python](solutions/Binary%20Tree,%20BFS,%20Queue/1123_lowest_common_ancestor_deepest_leaves.py) | Medium        | 
+
 ---
 
 ## **Strings**
