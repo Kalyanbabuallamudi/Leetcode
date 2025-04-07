@@ -195,6 +195,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 1976         | Number of Ways to Arrive at Destination   | [Python](solutions/Dynamic%20Programming/1976_Number_of_Ways_to_Arrive_at_Destination.py) | Medium          | 
 | 2140        | Solving Questions With Brainpower  | [Python](solutions/Dynamic%20Programming/2140_Solving_Questions_With_Brainpower.py) | Medium          | 
 | 368          | Largest Divisible Subset    | [Python](solutions/Dynamic%20Programming/368_largest_divisible_subset.py)        | Medium        |
+| 416          | Partition Equal Subset Sum  | [Python](solutions/Dynamic%20Programming/416_partition_equal_subset_sum.py)       | Medium        |
 ---
 ## **Graphs**
 
