@@ -81,8 +81,6 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 2874         | Maximum Value of an Ordered Triplet II     | [Python](solutions/arrays/2874_max_value_ordered_triplet_II.py)  | Medium        |
 | 1863         | Sum of All Subset XOR Totals     | [Python](solutions/arrays/1863_sum_of_all_subset_xor_totals.py)         | Easy          |
 | 3396        | Minimum Number of Operations     | [Python](solutions/arrays/3396_Minimum_Number_of_Operations.py)         | Easy          |
-
-3396. Minimum Number of Operations to Make Elements in Array Distinct
 ---
 
 ## **Heap, Greedy, Priority Queue**
