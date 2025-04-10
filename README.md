@@ -273,6 +273,9 @@ All solutions are licensed under the [MIT License](LICENSE).
 |-----------|----------------------------------------|-------------------------------------------------|------------|
 | 1780      | Check if Number is a Sum of Powers of Three | [Python](solutions/Math/1780_check_powers_of_three.py) | Medium     |
 | 2579         | Count Total Number of Colored Cells  | [Python](solutions/Math/2579_count_colored_cells.py) | Medium        |
+| 2999         | Count the Number of Powerful Integers  | [Python](solutions/Math/2999_Count_the_Number_of_Powerful_Integers.py) | Medium        |
+
+
 ---
 
 ### 🌟 **How to Use This Repository**
