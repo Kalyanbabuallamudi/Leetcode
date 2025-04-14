@@ -82,6 +82,9 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 1863         | Sum of All Subset XOR Totals     | [Python](solutions/arrays/1863_sum_of_all_subset_xor_totals.py)         | Easy          |
 | 3396        | Minimum Number of Operations     | [Python](solutions/arrays/3396_Minimum_Number_of_Operations.py)         | Easy          |
 | 3375        | Minimum Operations to Make Array Values Equal to K     | [Python](solutions/arrays/3375_Minimum_Operations_to_Make_Array_Values_Equal_to_K.py)         | Easy          |
+| 1534        | Count Good Triplets     | [Python](solutions/arrays/1534_Count_Good_Triplets.py)         | Easy          |
+
+
 ---
 
 ## **Heap, Greedy, Priority Queue**
