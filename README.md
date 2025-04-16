@@ -156,7 +156,11 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 3208         | Alternating Groups II            | [Python](solutions/Sliding%20Window/3208_alternating_groups_ii.py) | Medium         | Handles circular arrays and checks k-groups |
 | 3306         | Count of Substrings Containing Every Vowel and K Consonants II | [Python](solutions/Sliding%20Window/3306_count_of_substrings_containing_every_vowel_and_k_consonants_ii.py) | Medium         |
 | 1358         | Number of Substrings Containing All Three Characters | [Python](solutions/Sliding%20Window/1358_number_of_substrings_containing_all_three_characters.py) | Medium         |
+| 2537        | Count the Number of Good Subarrays | [Python](solutions/Sliding%20Window/2537_Count_the_Number_of_Good_Subarrays.py) | Medium         |
+
+
 ---
+
 ## **Binary Search**
 
 | **Problem #** | **Title**                               | **Solution**                                         | **Difficulty** |
