@@ -169,6 +169,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 1760           | Minimum Limit of Balls in a Bag         | [Python](solutions/BST/1760_minimum_balls_in_bag.py)  | Medium         |
 | 2054           | Two Best Non-Overlapping Events          | [Python](solutions/Greedy%20Binary%20Search/2054_best_nonoverlapping_events.py) | Medium         |
 | 3356         | Zero Array Transformation II | [Python](solutions/Binary%20Search/3356_zero_array_transformation_ii.py) | Medium        |
+| 2563         | Count the Number of Fair Pairs | [Python](solutions/Binary%20Search/2563_Count_the_Number_of_Fair_Pairs.py) | Medium        |
 ---
 
 ## **Tree, DFS, Modular Arithmetic**
