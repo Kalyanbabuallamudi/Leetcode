@@ -287,6 +287,13 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 3272         | Find the Count of Good Integers  | [Python](solutions/Math/3272_Find_the_Count_of_Good_Integers.py) | Medium        |
 | 1922         | Count Good Numbers  | [Python](solutions/Math/1922_Count_Good_Numbers.py) | Medium        |
 ---
+## **Hash Table**
+
+| **Problem #** | **Title**                                         | **Solution**                                    | **Difficulty** |
+|---------------|---------------------------------------------------|------------------------------------------------|----------------|
+| 781          | Rabbits in Forest | [Python](solutions/Graphs/1368_Minimum_Cost_Path.py) | Medium           |
+781_Rabbits_in_Forest.py
+---
 
 ### 🌟 **How to Use This Repository**
 1. Navigate to the section of interest using the [Table of Contents](#table-of-contents).  
