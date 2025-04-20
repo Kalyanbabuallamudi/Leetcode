@@ -31,6 +31,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 - [Backtracking](#backtracking)
 - [Prefix Sum](#prefix-sum)
 - [Math](#math)
+- [Hash Table](#hash-table)
 ---
 
 ## **Array**
@@ -291,8 +292,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 
 | **Problem #** | **Title**                                         | **Solution**                                    | **Difficulty** |
 |---------------|---------------------------------------------------|------------------------------------------------|----------------|
-| 781          | Rabbits in Forest | [Python](solutions/Graphs/1368_Minimum_Cost_Path.py) | Medium           |
-781_Rabbits_in_Forest.py
+| 781          | Rabbits in Forest | [Python](solutions/Hash%20Table/781_Rabbits_in_Forest.py) | Medium           |
 ---
 
 ### 🌟 **How to Use This Repository**
