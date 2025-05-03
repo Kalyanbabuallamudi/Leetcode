@@ -292,7 +292,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 
 | **Problem #** | **Title**                                         | **Solution**                                    | **Difficulty** |
 |---------------|---------------------------------------------------|------------------------------------------------|----------------|
-| 781          | Rabbits in Forest | [Python](solutions/Hash%20Table/781_Rabbits_in_Forest.py) | Medium           |
+
 ---
 
 ### 🌟 **How to Use This Repository**
