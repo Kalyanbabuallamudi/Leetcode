@@ -84,6 +84,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 | 3396        | Minimum Number of Operations     | [Python](solutions/arrays/3396_Minimum_Number_of_Operations.py)         | Easy          |
 | 3375        | Minimum Operations to Make Array Values Equal to K     | [Python](solutions/arrays/3375_Minimum_Operations_to_Make_Array_Values_Equal_to_K.py)         | Easy          |
 | 1534        | Count Good Triplets     | [Python](solutions/arrays/1534_Count_Good_Triplets.py)         | Easy          |
+| 2176        | Count Equal and Divisible Pairs in an Array     | [Python](solutions/arrays/2176_Count_Equal_and_Divisible_Pairs_in_an_Array.py)         | Easy          |
 
 
 ---
