@@ -9,7 +9,7 @@ All solutions are licensed under the [MIT License](LICENSE).
 ---
 
 ## **Table of Contents**
-
+- [Array](#array)
 - [Strings](#strings)
 - [Linked Lists](#linked-lists)
 - [Sliding Window](#sliding-window)
